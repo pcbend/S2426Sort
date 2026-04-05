@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 
-#set(CMAKE_VERBOSE_MAKEFILE ON)
+#set(CMAKE_VERBOSE_MAKEFILE OFF)
 
 #project information
 project(s2426Sort 

@@ -1,0 +1,73 @@
+
+#include<EventBuilder.h>
+
+EventBuilder *EventBuilder::fEventBuilder = 0;
+
+EventBuilder::EventBuilder() {
+  fWorker = std::thread([this]{ this->loop(); });
+  fWorker.detach();
+}
+
+EventBuilder *EventBuilder::Get() {
+  if(!fEventBuilder)
+    fEventBuilder = new EventBuilder;
+  return fEventBuilder;
+}
+
+EventBuilder::~EventBuilder() { 
+  if(!fStop)
+    fWorker.join();
+}
+
+
+void EventBuilder::push(std::unique_ptr<Fragment> frag) {
+   std::lock_guard<std::mutex> lk(fMutex);
+   fLastTimestamp = frag->Timestamp();
+   fQueue.push(std::move(frag));
+}
+
+bool EventBuilder::pop(std::vector<std::unique_ptr<Fragment> > &Builtfrags) {
+  //if(fStop) {
+  //  if(!fQueue.empty()) {
+  //    Builtfrags.insert*
+  //
+  //  }
+  //}
+    
+  std::lock_guard<std::mutex> lk(fMutex);
+  if(fQueue.empty()) return false;
+  Fragment *out;
+  peek(out);
+  long firstTimestamp = out->Timestamp();
+  if((firstTimestamp - fLastTimestamp) < 100000000) return false; 
+  Builtfrags.push_back(std::move(fQueue.top()));
+  fQueue.pop();
+  while(1) {
+    peek(out);
+    if(abs(Builtfrags.at(0)->Timestamp() - out->Timestamp())>10000) break; //10 us build time. 
+    Builtfrags.push_back(std::move(fQueue.top()));  
+    fQueue.pop();
+  }
+  return true;
+}
+
+bool EventBuilder::peek(Fragment*& out) {
+  std::lock_guard<std::mutex> lk(fMutex);
+  if(fQueue.empty()) {
+    out = nullptr;
+    return false;
+  }
+  out = fQueue.top().get();
+  return true; 
+}
+
+void EventBuilder::loop() {
+
+  while(1) {
+    if(fStop && fQueue.empty()) break;
+    //checks que
+    // - if true; pass built events;
+    // - if flase; sleep;
+    std::this_thread::sleep_for(std::chrono::milliseconds(10));  
+  }
+};

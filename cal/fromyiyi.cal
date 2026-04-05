@@ -1,0 +1,10416 @@
+TIG05BP01x { 
+Name:	TIG05BP01x
+Number:	0
+Address:	0x0200
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP02x { 
+Name:	TIG05BP02x
+Number:	1
+Address:	0x0201
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP03x { 
+Name:	TIG05BP03x
+Number:	2
+Address:	0x0202
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP04x { 
+Name:	TIG05BP04x
+Number:	3
+Address:	0x0203
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP05x { 
+Name:	TIG05BP05x
+Number:	4
+Address:	0x0204
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP06x { 
+Name:	TIG05BP06x
+Number:	5
+Address:	0x0205
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP07x { 
+Name:	TIG05BP07x
+Number:	6
+Address:	0x0206
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BP08x { 
+Name:	TIG05BP08x
+Number:	7
+Address:	0x0207
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BN00B { 
+Name:	TIG05BN00B
+Number:	8
+Address:	0x0208
+Digitizer:	GRF16
+EngCoeff:	0.312223 1.30251 4.51485e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05BN00A { 
+Name:	TIG05BN00A
+Number:	9
+Address:	0x0209
+Digitizer:	GRF16
+EngCoeff:	0.312223 1.30251 4.51485e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05BN01x { 
+Name:	TIS05BN01x
+Number:	10
+Address:	0x020a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05BN02x { 
+Name:	TIS05BN02x
+Number:	11
+Address:	0x020b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05BN03x { 
+Name:	TIS05BN03x
+Number:	12
+Address:	0x020c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05BN04x { 
+Name:	TIS05BN04x
+Number:	13
+Address:	0x020d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05BN05x { 
+Name:	TIS05BN05x
+Number:	14
+Address:	0x020e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP01x { 
+Name:	TIG05GP01x
+Number:	15
+Address:	0x0a00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP02x { 
+Name:	TIG05GP02x
+Number:	16
+Address:	0x0a01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP03x { 
+Name:	TIG05GP03x
+Number:	17
+Address:	0x0a02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP04x { 
+Name:	TIG05GP04x
+Number:	18
+Address:	0x0a03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP05x { 
+Name:	TIG05GP05x
+Number:	19
+Address:	0x0a04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP06x { 
+Name:	TIG05GP06x
+Number:	20
+Address:	0x0a05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP07x { 
+Name:	TIG05GP07x
+Number:	21
+Address:	0x0a06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GP08x { 
+Name:	TIG05GP08x
+Number:	22
+Address:	0x0a07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GN00B { 
+Name:	TIG05GN00B
+Number:	23
+Address:	0x0a08
+Digitizer:	GRF16
+EngCoeff:	0.125875 1.34931 -3.79105e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05GN00A { 
+Name:	TIG05GN00A
+Number:	24
+Address:	0x0a09
+Digitizer:	GRF16
+EngCoeff:	0.125875 1.34931 -3.79105e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05GN01x { 
+Name:	TIS05GN01x
+Number:	25
+Address:	0x0a0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05GN02x { 
+Name:	TIS05GN02x
+Number:	26
+Address:	0x0a0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05GN03x { 
+Name:	TIS05GN03x
+Number:	27
+Address:	0x0a0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05GN04x { 
+Name:	TIS05GN04x
+Number:	28
+Address:	0x0a0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05GN05x { 
+Name:	TIS05GN05x
+Number:	29
+Address:	0x0a0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP01x { 
+Name:	TIG05RP01x
+Number:	30
+Address:	0x0b00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP02x { 
+Name:	TIG05RP02x
+Number:	31
+Address:	0x0b01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP03x { 
+Name:	TIG05RP03x
+Number:	32
+Address:	0x0b02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP04x { 
+Name:	TIG05RP04x
+Number:	33
+Address:	0x0b03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP05x { 
+Name:	TIG05RP05x
+Number:	34
+Address:	0x0b04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP06x { 
+Name:	TIG05RP06x
+Number:	35
+Address:	0x0b05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP07x { 
+Name:	TIG05RP07x
+Number:	36
+Address:	0x0b06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RP08x { 
+Name:	TIG05RP08x
+Number:	37
+Address:	0x0b07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RN00B { 
+Name:	TIG05RN00B
+Number:	38
+Address:	0x0b08
+Digitizer:	GRF16
+EngCoeff:	-0.375167 1.28988 -6.69763e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05RN00A { 
+Name:	TIG05RN00A
+Number:	39
+Address:	0x0b09
+Digitizer:	GRF16
+EngCoeff:	-0.375167 1.28988 -6.69763e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05RN01x { 
+Name:	TIS05RN01x
+Number:	40
+Address:	0x0b0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05RN02x { 
+Name:	TIS05RN02x
+Number:	41
+Address:	0x0b0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05RN03x { 
+Name:	TIS05RN03x
+Number:	42
+Address:	0x0b0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05RN04x { 
+Name:	TIS05RN04x
+Number:	43
+Address:	0x0b0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05RN05x { 
+Name:	TIS05RN05x
+Number:	44
+Address:	0x0b0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP01x { 
+Name:	TIG05WP01x
+Number:	45
+Address:	0x0c00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP02x { 
+Name:	TIG05WP02x
+Number:	46
+Address:	0x0c01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP03x { 
+Name:	TIG05WP03x
+Number:	47
+Address:	0x0c02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP04x { 
+Name:	TIG05WP04x
+Number:	48
+Address:	0x0c03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP05x { 
+Name:	TIG05WP05x
+Number:	49
+Address:	0x0c04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP06x { 
+Name:	TIG05WP06x
+Number:	50
+Address:	0x0c05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP07x { 
+Name:	TIG05WP07x
+Number:	51
+Address:	0x0c06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WP08x { 
+Name:	TIG05WP08x
+Number:	52
+Address:	0x0c07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WN00B { 
+Name:	TIG05WN00B
+Number:	53
+Address:	0x0c08
+Digitizer:	GRF16
+EngCoeff:	-0.195665 1.28805 -4.56854e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG05WN00A { 
+Name:	TIG05WN00A
+Number:	54
+Address:	0x0c09
+Digitizer:	GRF16
+EngCoeff:	-0.195665 1.28805 -4.56854e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05WN01x { 
+Name:	TIS05WN01x
+Number:	55
+Address:	0x0c0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05WN02x { 
+Name:	TIS05WN02x
+Number:	56
+Address:	0x0c0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05WN03x { 
+Name:	TIS05WN03x
+Number:	57
+Address:	0x0c0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05WN04x { 
+Name:	TIS05WN04x
+Number:	58
+Address:	0x0c0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS05WN05x { 
+Name:	TIS05WN05x
+Number:	59
+Address:	0x0c0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP01x { 
+Name:	TIG06BP01x
+Number:	60
+Address:	0x0000
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP02x { 
+Name:	TIG06BP02x
+Number:	61
+Address:	0x0001
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP03x { 
+Name:	TIG06BP03x
+Number:	62
+Address:	0x0002
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP04x { 
+Name:	TIG06BP04x
+Number:	63
+Address:	0x0003
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP05x { 
+Name:	TIG06BP05x
+Number:	64
+Address:	0x0004
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP06x { 
+Name:	TIG06BP06x
+Number:	65
+Address:	0x0005
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP07x { 
+Name:	TIG06BP07x
+Number:	66
+Address:	0x0006
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BP08x { 
+Name:	TIG06BP08x
+Number:	67
+Address:	0x0007
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BN00B { 
+Name:	TIG06BN00B
+Number:	68
+Address:	0x0008
+Digitizer:	GRF16
+EngCoeff:	-0.47361 1.31677 -1.85503e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06BN00A { 
+Name:	TIG06BN00A
+Number:	69
+Address:	0x0009
+Digitizer:	GRF16
+EngCoeff:	-0.47361 1.31677 -1.85503e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06BN01x { 
+Name:	TIS06BN01x
+Number:	70
+Address:	0x000a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06BN02x { 
+Name:	TIS06BN02x
+Number:	71
+Address:	0x000b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06BN03x { 
+Name:	TIS06BN03x
+Number:	72
+Address:	0x000c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06BN04x { 
+Name:	TIS06BN04x
+Number:	73
+Address:	0x000d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06BN05x { 
+Name:	TIS06BN05x
+Number:	74
+Address:	0x000e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP01x { 
+Name:	TIG06GP01x
+Number:	75
+Address:	0x0400
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP02x { 
+Name:	TIG06GP02x
+Number:	76
+Address:	0x0401
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP03x { 
+Name:	TIG06GP03x
+Number:	77
+Address:	0x0402
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP04x { 
+Name:	TIG06GP04x
+Number:	78
+Address:	0x0403
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP05x { 
+Name:	TIG06GP05x
+Number:	79
+Address:	0x0404
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP06x { 
+Name:	TIG06GP06x
+Number:	80
+Address:	0x0405
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP07x { 
+Name:	TIG06GP07x
+Number:	81
+Address:	0x0406
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GP08x { 
+Name:	TIG06GP08x
+Number:	82
+Address:	0x0407
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GN00B { 
+Name:	TIG06GN00B
+Number:	83
+Address:	0x0408
+Digitizer:	GRF16
+EngCoeff:	-0.0301224 1.2955 -4.05089e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06GN00A { 
+Name:	TIG06GN00A
+Number:	84
+Address:	0x0409
+Digitizer:	GRF16
+EngCoeff:	-0.0301224 1.2955 -4.05089e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06GN01x { 
+Name:	TIS06GN01x
+Number:	85
+Address:	0x040a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06GN02x { 
+Name:	TIS06GN02x
+Number:	86
+Address:	0x040b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06GN03x { 
+Name:	TIS06GN03x
+Number:	87
+Address:	0x040c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06GN04x { 
+Name:	TIS06GN04x
+Number:	88
+Address:	0x040d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06GN05x { 
+Name:	TIS06GN05x
+Number:	89
+Address:	0x040e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP01x { 
+Name:	TIG06RP01x
+Number:	90
+Address:	0x0500
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP02x { 
+Name:	TIG06RP02x
+Number:	91
+Address:	0x0501
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP03x { 
+Name:	TIG06RP03x
+Number:	92
+Address:	0x0502
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP04x { 
+Name:	TIG06RP04x
+Number:	93
+Address:	0x0503
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP05x { 
+Name:	TIG06RP05x
+Number:	94
+Address:	0x0504
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP06x { 
+Name:	TIG06RP06x
+Number:	95
+Address:	0x0505
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP07x { 
+Name:	TIG06RP07x
+Number:	96
+Address:	0x0506
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RP08x { 
+Name:	TIG06RP08x
+Number:	97
+Address:	0x0507
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RN00B { 
+Name:	TIG06RN00B
+Number:	98
+Address:	0x0508
+Digitizer:	GRF16
+EngCoeff:	0.0858387 1.38479 1.39016e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06RN00A { 
+Name:	TIG06RN00A
+Number:	99
+Address:	0x0509
+Digitizer:	GRF16
+EngCoeff:	0.0858387 1.38479 1.39016e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06RN01x { 
+Name:	TIS06RN01x
+Number:	100
+Address:	0x050a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06RN02x { 
+Name:	TIS06RN02x
+Number:	101
+Address:	0x050b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06RN03x { 
+Name:	TIS06RN03x
+Number:	102
+Address:	0x050c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06RN04x { 
+Name:	TIS06RN04x
+Number:	103
+Address:	0x050d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06RN05x { 
+Name:	TIS06RN05x
+Number:	104
+Address:	0x050e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP01x { 
+Name:	TIG06WP01x
+Number:	105
+Address:	0x0600
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP02x { 
+Name:	TIG06WP02x
+Number:	106
+Address:	0x0601
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP03x { 
+Name:	TIG06WP03x
+Number:	107
+Address:	0x0602
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP04x { 
+Name:	TIG06WP04x
+Number:	108
+Address:	0x0603
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP05x { 
+Name:	TIG06WP05x
+Number:	109
+Address:	0x0604
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP06x { 
+Name:	TIG06WP06x
+Number:	110
+Address:	0x0605
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP07x { 
+Name:	TIG06WP07x
+Number:	111
+Address:	0x0606
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WP08x { 
+Name:	TIG06WP08x
+Number:	112
+Address:	0x0607
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WN00B { 
+Name:	TIG06WN00B
+Number:	113
+Address:	0x0608
+Digitizer:	GRF16
+EngCoeff:	-0.551354 1.36194 -1.11965e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG06WN00A { 
+Name:	TIG06WN00A
+Number:	114
+Address:	0x0609
+Digitizer:	GRF16
+EngCoeff:	-0.551354 1.36194 -1.11965e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06WN01x { 
+Name:	TIS06WN01x
+Number:	115
+Address:	0x060a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06WN02x { 
+Name:	TIS06WN02x
+Number:	116
+Address:	0x060b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06WN03x { 
+Name:	TIS06WN03x
+Number:	117
+Address:	0x060c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06WN04x { 
+Name:	TIS06WN04x
+Number:	118
+Address:	0x060d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS06WN05x { 
+Name:	TIS06WN05x
+Number:	119
+Address:	0x060e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP01x { 
+Name:	TIG07BP01x
+Number:	120
+Address:	0x1300
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP02x { 
+Name:	TIG07BP02x
+Number:	121
+Address:	0x1301
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP03x { 
+Name:	TIG07BP03x
+Number:	122
+Address:	0x1302
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP04x { 
+Name:	TIG07BP04x
+Number:	123
+Address:	0x1303
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP05x { 
+Name:	TIG07BP05x
+Number:	124
+Address:	0x1304
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP06x { 
+Name:	TIG07BP06x
+Number:	125
+Address:	0x1305
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP07x { 
+Name:	TIG07BP07x
+Number:	126
+Address:	0x1306
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BP08x { 
+Name:	TIG07BP08x
+Number:	127
+Address:	0x1307
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BN00B { 
+Name:	TIG07BN00B
+Number:	128
+Address:	0x1308
+Digitizer:	GRF16
+EngCoeff:	-0.609063 1.33291 -5.22159e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07BN00A { 
+Name:	TIG07BN00A
+Number:	129
+Address:	0x1309
+Digitizer:	GRF16
+EngCoeff:	-0.609063 1.33291 -5.22159e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07BN01x { 
+Name:	TIS07BN01x
+Number:	130
+Address:	0x130a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07BN02x { 
+Name:	TIS07BN02x
+Number:	131
+Address:	0x130b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07BN03x { 
+Name:	TIS07BN03x
+Number:	132
+Address:	0x130c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07BN04x { 
+Name:	TIS07BN04x
+Number:	133
+Address:	0x130d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07BN05x { 
+Name:	TIS07BN05x
+Number:	134
+Address:	0x130e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP01x { 
+Name:	TIG07GP01x
+Number:	135
+Address:	0x1d00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP02x { 
+Name:	TIG07GP02x
+Number:	136
+Address:	0x1d01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP03x { 
+Name:	TIG07GP03x
+Number:	137
+Address:	0x1d02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP04x { 
+Name:	TIG07GP04x
+Number:	138
+Address:	0x1d03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP05x { 
+Name:	TIG07GP05x
+Number:	139
+Address:	0x1d04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP06x { 
+Name:	TIG07GP06x
+Number:	140
+Address:	0x1d05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP07x { 
+Name:	TIG07GP07x
+Number:	141
+Address:	0x1d06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GP08x { 
+Name:	TIG07GP08x
+Number:	142
+Address:	0x1d07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GN00B { 
+Name:	TIG07GN00B
+Number:	143
+Address:	0x1d08
+Digitizer:	GRF16
+EngCoeff:	0.128004 1.43185 -6.18875e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07GN00A { 
+Name:	TIG07GN00A
+Number:	144
+Address:	0x1d09
+Digitizer:	GRF16
+EngCoeff:	0.128004 1.43185 -6.18875e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07GN01x { 
+Name:	TIS07GN01x
+Number:	145
+Address:	0x1d0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07GN02x { 
+Name:	TIS07GN02x
+Number:	146
+Address:	0x1d0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07GN03x { 
+Name:	TIS07GN03x
+Number:	147
+Address:	0x1d0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07GN04x { 
+Name:	TIS07GN04x
+Number:	148
+Address:	0x1d0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07GN05x { 
+Name:	TIS07GN05x
+Number:	149
+Address:	0x1d0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP01x { 
+Name:	TIG07RP01x
+Number:	150
+Address:	0x1e00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP02x { 
+Name:	TIG07RP02x
+Number:	151
+Address:	0x1e01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP03x { 
+Name:	TIG07RP03x
+Number:	152
+Address:	0x1e02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP04x { 
+Name:	TIG07RP04x
+Number:	153
+Address:	0x1e03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP05x { 
+Name:	TIG07RP05x
+Number:	154
+Address:	0x1e04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP06x { 
+Name:	TIG07RP06x
+Number:	155
+Address:	0x1e05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP07x { 
+Name:	TIG07RP07x
+Number:	156
+Address:	0x1e06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RP08x { 
+Name:	TIG07RP08x
+Number:	157
+Address:	0x1e07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RN00B { 
+Name:	TIG07RN00B
+Number:	158
+Address:	0x1e08
+Digitizer:	GRF16
+EngCoeff:	-1.41927 1.29376 -8.17496e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07RN00A { 
+Name:	TIG07RN00A
+Number:	159
+Address:	0x1e09
+Digitizer:	GRF16
+EngCoeff:	-1.41927 1.29376 -8.17496e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07RN01x { 
+Name:	TIS07RN01x
+Number:	160
+Address:	0x1e0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07RN02x { 
+Name:	TIS07RN02x
+Number:	161
+Address:	0x1e0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07RN03x { 
+Name:	TIS07RN03x
+Number:	162
+Address:	0x1e0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07RN04x { 
+Name:	TIS07RN04x
+Number:	163
+Address:	0x1e0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07RN05x { 
+Name:	TIS07RN05x
+Number:	164
+Address:	0x1e0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP01x { 
+Name:	TIG07WP01x
+Number:	165
+Address:	0x1f00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP02x { 
+Name:	TIG07WP02x
+Number:	166
+Address:	0x1f01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP03x { 
+Name:	TIG07WP03x
+Number:	167
+Address:	0x1f02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP04x { 
+Name:	TIG07WP04x
+Number:	168
+Address:	0x1f03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP05x { 
+Name:	TIG07WP05x
+Number:	169
+Address:	0x1f04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP06x { 
+Name:	TIG07WP06x
+Number:	170
+Address:	0x1f05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP07x { 
+Name:	TIG07WP07x
+Number:	171
+Address:	0x1f06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WP08x { 
+Name:	TIG07WP08x
+Number:	172
+Address:	0x1f07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WN00B { 
+Name:	TIG07WN00B
+Number:	173
+Address:	0x1f08
+Digitizer:	GRF16
+EngCoeff:	-0.260601 1.32815 1.43195e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG07WN00A { 
+Name:	TIG07WN00A
+Number:	174
+Address:	0x1f09
+Digitizer:	GRF16
+EngCoeff:	-0.260601 1.32815 1.43195e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07WN01x { 
+Name:	TIS07WN01x
+Number:	175
+Address:	0x1f0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07WN02x { 
+Name:	TIS07WN02x
+Number:	176
+Address:	0x1f0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07WN03x { 
+Name:	TIS07WN03x
+Number:	177
+Address:	0x1f0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07WN04x { 
+Name:	TIS07WN04x
+Number:	178
+Address:	0x1f0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS07WN05x { 
+Name:	TIS07WN05x
+Number:	179
+Address:	0x1f0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP01x { 
+Name:	TIG08BP01x
+Number:	180
+Address:	0x1200
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP02x { 
+Name:	TIG08BP02x
+Number:	181
+Address:	0x1201
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP03x { 
+Name:	TIG08BP03x
+Number:	182
+Address:	0x1202
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP04x { 
+Name:	TIG08BP04x
+Number:	183
+Address:	0x1203
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP05x { 
+Name:	TIG08BP05x
+Number:	184
+Address:	0x1204
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP06x { 
+Name:	TIG08BP06x
+Number:	185
+Address:	0x1205
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP07x { 
+Name:	TIG08BP07x
+Number:	186
+Address:	0x1206
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BP08x { 
+Name:	TIG08BP08x
+Number:	187
+Address:	0x1207
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BN00B { 
+Name:	TIG08BN00B
+Number:	188
+Address:	0x1208
+Digitizer:	GRF16
+EngCoeff:	0.390272 1.28205 -4.85638e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08BN00A { 
+Name:	TIG08BN00A
+Number:	189
+Address:	0x1209
+Digitizer:	GRF16
+EngCoeff:	0.390272 1.28205 -4.85638e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08BN01x { 
+Name:	TIS08BN01x
+Number:	190
+Address:	0x120a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08BN02x { 
+Name:	TIS08BN02x
+Number:	191
+Address:	0x120b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08BN03x { 
+Name:	TIS08BN03x
+Number:	192
+Address:	0x120c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08BN04x { 
+Name:	TIS08BN04x
+Number:	193
+Address:	0x120d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08BN05x { 
+Name:	TIS08BN05x
+Number:	194
+Address:	0x120e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP01x { 
+Name:	TIG08GP01x
+Number:	195
+Address:	0x1a00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP02x { 
+Name:	TIG08GP02x
+Number:	196
+Address:	0x1a01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP03x { 
+Name:	TIG08GP03x
+Number:	197
+Address:	0x1a02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP04x { 
+Name:	TIG08GP04x
+Number:	198
+Address:	0x1a03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP05x { 
+Name:	TIG08GP05x
+Number:	199
+Address:	0x1a04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP06x { 
+Name:	TIG08GP06x
+Number:	200
+Address:	0x1a05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP07x { 
+Name:	TIG08GP07x
+Number:	201
+Address:	0x1a06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GP08x { 
+Name:	TIG08GP08x
+Number:	202
+Address:	0x1a07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GN00B { 
+Name:	TIG08GN00B
+Number:	203
+Address:	0x1a08
+Digitizer:	GRF16
+EngCoeff:	-0.200181 1.36786 -3.03265e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08GN00A { 
+Name:	TIG08GN00A
+Number:	204
+Address:	0x1a09
+Digitizer:	GRF16
+EngCoeff:	-0.200181 1.36786 -3.03265e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08GN01x { 
+Name:	TIS08GN01x
+Number:	205
+Address:	0x1a0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08GN02x { 
+Name:	TIS08GN02x
+Number:	206
+Address:	0x1a0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08GN03x { 
+Name:	TIS08GN03x
+Number:	207
+Address:	0x1a0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08GN04x { 
+Name:	TIS08GN04x
+Number:	208
+Address:	0x1a0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08GN05x { 
+Name:	TIS08GN05x
+Number:	209
+Address:	0x1a0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP01x { 
+Name:	TIG08RP01x
+Number:	210
+Address:	0x1b00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP02x { 
+Name:	TIG08RP02x
+Number:	211
+Address:	0x1b01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP03x { 
+Name:	TIG08RP03x
+Number:	212
+Address:	0x1b02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP04x { 
+Name:	TIG08RP04x
+Number:	213
+Address:	0x1b03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP05x { 
+Name:	TIG08RP05x
+Number:	214
+Address:	0x1b04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP06x { 
+Name:	TIG08RP06x
+Number:	215
+Address:	0x1b05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP07x { 
+Name:	TIG08RP07x
+Number:	216
+Address:	0x1b06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RP08x { 
+Name:	TIG08RP08x
+Number:	217
+Address:	0x1b07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RN00B { 
+Name:	TIG08RN00B
+Number:	218
+Address:	0x1b08
+Digitizer:	GRF16
+EngCoeff:	-0.742246 1.34536 -9.77177e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08RN00A { 
+Name:	TIG08RN00A
+Number:	219
+Address:	0x1b09
+Digitizer:	GRF16
+EngCoeff:	-0.742246 1.34536 -9.77177e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08RN01x { 
+Name:	TIS08RN01x
+Number:	220
+Address:	0x1b0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08RN02x { 
+Name:	TIS08RN02x
+Number:	221
+Address:	0x1b0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08RN03x { 
+Name:	TIS08RN03x
+Number:	222
+Address:	0x1b0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08RN04x { 
+Name:	TIS08RN04x
+Number:	223
+Address:	0x1b0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08RN05x { 
+Name:	TIS08RN05x
+Number:	224
+Address:	0x1b0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP01x { 
+Name:	TIG08WP01x
+Number:	225
+Address:	0x1c00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP02x { 
+Name:	TIG08WP02x
+Number:	226
+Address:	0x1c01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP03x { 
+Name:	TIG08WP03x
+Number:	227
+Address:	0x1c02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP04x { 
+Name:	TIG08WP04x
+Number:	228
+Address:	0x1c03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP05x { 
+Name:	TIG08WP05x
+Number:	229
+Address:	0x1c04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP06x { 
+Name:	TIG08WP06x
+Number:	230
+Address:	0x1c05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP07x { 
+Name:	TIG08WP07x
+Number:	231
+Address:	0x1c06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WP08x { 
+Name:	TIG08WP08x
+Number:	232
+Address:	0x1c07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WN00B { 
+Name:	TIG08WN00B
+Number:	233
+Address:	0x1c08
+Digitizer:	GRF16
+EngCoeff:	-0.938998 1.24376 -2.87497e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG08WN00A { 
+Name:	TIG08WN00A
+Number:	234
+Address:	0x1c09
+Digitizer:	GRF16
+EngCoeff:	-0.938998 1.24376 -2.87497e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08WN01x { 
+Name:	TIS08WN01x
+Number:	235
+Address:	0x1c0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08WN02x { 
+Name:	TIS08WN02x
+Number:	236
+Address:	0x1c0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08WN03x { 
+Name:	TIS08WN03x
+Number:	237
+Address:	0x1c0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08WN04x { 
+Name:	TIS08WN04x
+Number:	238
+Address:	0x1c0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS08WN05x { 
+Name:	TIS08WN05x
+Number:	239
+Address:	0x1c0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP01x { 
+Name:	TIG09BP01x
+Number:	240
+Address:	0x2000
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP02x { 
+Name:	TIG09BP02x
+Number:	241
+Address:	0x2001
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP03x { 
+Name:	TIG09BP03x
+Number:	242
+Address:	0x2002
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP04x { 
+Name:	TIG09BP04x
+Number:	243
+Address:	0x2003
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP05x { 
+Name:	TIG09BP05x
+Number:	244
+Address:	0x2004
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP06x { 
+Name:	TIG09BP06x
+Number:	245
+Address:	0x2005
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP07x { 
+Name:	TIG09BP07x
+Number:	246
+Address:	0x2006
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BP08x { 
+Name:	TIG09BP08x
+Number:	247
+Address:	0x2007
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BN00B { 
+Name:	TIG09BN00B
+Number:	248
+Address:	0x2008
+Digitizer:	GRF16
+EngCoeff:	-0.341163 1.29937 -3.90159e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09BN00A { 
+Name:	TIG09BN00A
+Number:	249
+Address:	0x2009
+Digitizer:	GRF16
+EngCoeff:	-0.341163 1.29937 -3.90159e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09BN01x { 
+Name:	TIS09BN01x
+Number:	250
+Address:	0x200a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09BN02x { 
+Name:	TIS09BN02x
+Number:	251
+Address:	0x200b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09BN03x { 
+Name:	TIS09BN03x
+Number:	252
+Address:	0x200c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09BN04x { 
+Name:	TIS09BN04x
+Number:	253
+Address:	0x200d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09BN05x { 
+Name:	TIS09BN05x
+Number:	254
+Address:	0x200e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP01x { 
+Name:	TIG09GP01x
+Number:	255
+Address:	0x2400
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP02x { 
+Name:	TIG09GP02x
+Number:	256
+Address:	0x2401
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP03x { 
+Name:	TIG09GP03x
+Number:	257
+Address:	0x2402
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP04x { 
+Name:	TIG09GP04x
+Number:	258
+Address:	0x2403
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP05x { 
+Name:	TIG09GP05x
+Number:	259
+Address:	0x2404
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP06x { 
+Name:	TIG09GP06x
+Number:	260
+Address:	0x2405
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP07x { 
+Name:	TIG09GP07x
+Number:	261
+Address:	0x2406
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GP08x { 
+Name:	TIG09GP08x
+Number:	262
+Address:	0x2407
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GN00B { 
+Name:	TIG09GN00B
+Number:	263
+Address:	0x2408
+Digitizer:	GRF16
+EngCoeff:	-0.321306 1.29149 -6.41029e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09GN00A { 
+Name:	TIG09GN00A
+Number:	264
+Address:	0x2409
+Digitizer:	GRF16
+EngCoeff:	-0.321306 1.29149 -6.41029e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09GN01x { 
+Name:	TIS09GN01x
+Number:	265
+Address:	0x240a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09GN02x { 
+Name:	TIS09GN02x
+Number:	266
+Address:	0x240b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09GN03x { 
+Name:	TIS09GN03x
+Number:	267
+Address:	0x240c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09GN04x { 
+Name:	TIS09GN04x
+Number:	268
+Address:	0x240d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09GN05x { 
+Name:	TIS09GN05x
+Number:	269
+Address:	0x240e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP01x { 
+Name:	TIG09RP01x
+Number:	270
+Address:	0x2500
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP02x { 
+Name:	TIG09RP02x
+Number:	271
+Address:	0x2501
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP03x { 
+Name:	TIG09RP03x
+Number:	272
+Address:	0x2502
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP04x { 
+Name:	TIG09RP04x
+Number:	273
+Address:	0x2503
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP05x { 
+Name:	TIG09RP05x
+Number:	274
+Address:	0x2504
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP06x { 
+Name:	TIG09RP06x
+Number:	275
+Address:	0x2505
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP07x { 
+Name:	TIG09RP07x
+Number:	276
+Address:	0x2506
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RP08x { 
+Name:	TIG09RP08x
+Number:	277
+Address:	0x2507
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RN00B { 
+Name:	TIG09RN00B
+Number:	278
+Address:	0x2508
+Digitizer:	GRF16
+EngCoeff:	-0.289155 1.31965 3.788e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09RN00A { 
+Name:	TIG09RN00A
+Number:	279
+Address:	0x2509
+Digitizer:	GRF16
+EngCoeff:	-0.289155 1.31965 3.788e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09RN01x { 
+Name:	TIS09RN01x
+Number:	280
+Address:	0x250a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09RN02x { 
+Name:	TIS09RN02x
+Number:	281
+Address:	0x250b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09RN03x { 
+Name:	TIS09RN03x
+Number:	282
+Address:	0x250c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09RN04x { 
+Name:	TIS09RN04x
+Number:	283
+Address:	0x250d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09RN05x { 
+Name:	TIS09RN05x
+Number:	284
+Address:	0x250e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP01x { 
+Name:	TIG09WP01x
+Number:	285
+Address:	0x2600
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP02x { 
+Name:	TIG09WP02x
+Number:	286
+Address:	0x2601
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP03x { 
+Name:	TIG09WP03x
+Number:	287
+Address:	0x2602
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP04x { 
+Name:	TIG09WP04x
+Number:	288
+Address:	0x2603
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP05x { 
+Name:	TIG09WP05x
+Number:	289
+Address:	0x2604
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP06x { 
+Name:	TIG09WP06x
+Number:	290
+Address:	0x2605
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP07x { 
+Name:	TIG09WP07x
+Number:	291
+Address:	0x2606
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WP08x { 
+Name:	TIG09WP08x
+Number:	292
+Address:	0x2607
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WN00B { 
+Name:	TIG09WN00B
+Number:	293
+Address:	0x2608
+Digitizer:	GRF16
+EngCoeff:	-0.135633 1.2938 -6.77095e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG09WN00A { 
+Name:	TIG09WN00A
+Number:	294
+Address:	0x2609
+Digitizer:	GRF16
+EngCoeff:	-0.135633 1.2938 -6.77095e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09WN01x { 
+Name:	TIS09WN01x
+Number:	295
+Address:	0x260a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09WN02x { 
+Name:	TIS09WN02x
+Number:	296
+Address:	0x260b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09WN03x { 
+Name:	TIS09WN03x
+Number:	297
+Address:	0x260c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09WN04x { 
+Name:	TIS09WN04x
+Number:	298
+Address:	0x260d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS09WN05x { 
+Name:	TIS09WN05x
+Number:	299
+Address:	0x260e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP01x { 
+Name:	TIG10BP01x
+Number:	300
+Address:	0x2100
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP02x { 
+Name:	TIG10BP02x
+Number:	301
+Address:	0x2101
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP03x { 
+Name:	TIG10BP03x
+Number:	302
+Address:	0x2102
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP04x { 
+Name:	TIG10BP04x
+Number:	303
+Address:	0x2103
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP05x { 
+Name:	TIG10BP05x
+Number:	304
+Address:	0x2104
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP06x { 
+Name:	TIG10BP06x
+Number:	305
+Address:	0x2105
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP07x { 
+Name:	TIG10BP07x
+Number:	306
+Address:	0x2106
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BP08x { 
+Name:	TIG10BP08x
+Number:	307
+Address:	0x2107
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BN00B { 
+Name:	TIG10BN00B
+Number:	308
+Address:	0x2108
+Digitizer:	GRF16
+EngCoeff:	-0.0565029 1.31431 3.66597e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10BN00A { 
+Name:	TIG10BN00A
+Number:	309
+Address:	0x2109
+Digitizer:	GRF16
+EngCoeff:	-0.0565029 1.31431 3.66597e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10BN01x { 
+Name:	TIS10BN01x
+Number:	310
+Address:	0x210a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10BN02x { 
+Name:	TIS10BN02x
+Number:	311
+Address:	0x210b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10BN03x { 
+Name:	TIS10BN03x
+Number:	312
+Address:	0x210c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10BN04x { 
+Name:	TIS10BN04x
+Number:	313
+Address:	0x210d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10BN05x { 
+Name:	TIS10BN05x
+Number:	314
+Address:	0x210e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP01x { 
+Name:	TIG10GP01x
+Number:	315
+Address:	0x2700
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP02x { 
+Name:	TIG10GP02x
+Number:	316
+Address:	0x2701
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP03x { 
+Name:	TIG10GP03x
+Number:	317
+Address:	0x2702
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP04x { 
+Name:	TIG10GP04x
+Number:	318
+Address:	0x2703
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP05x { 
+Name:	TIG10GP05x
+Number:	319
+Address:	0x2704
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP06x { 
+Name:	TIG10GP06x
+Number:	320
+Address:	0x2705
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP07x { 
+Name:	TIG10GP07x
+Number:	321
+Address:	0x2706
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GP08x { 
+Name:	TIG10GP08x
+Number:	322
+Address:	0x2707
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GN00B { 
+Name:	TIG10GN00B
+Number:	323
+Address:	0x2708
+Digitizer:	GRF16
+EngCoeff:	-0.268979 1.29489 -7.13568e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10GN00A { 
+Name:	TIG10GN00A
+Number:	324
+Address:	0x2709
+Digitizer:	GRF16
+EngCoeff:	-0.268979 1.29489 -7.13568e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10GN01x { 
+Name:	TIS10GN01x
+Number:	325
+Address:	0x270a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10GN02x { 
+Name:	TIS10GN02x
+Number:	326
+Address:	0x270b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10GN03x { 
+Name:	TIS10GN03x
+Number:	327
+Address:	0x270c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10GN04x { 
+Name:	TIS10GN04x
+Number:	328
+Address:	0x270d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10GN05x { 
+Name:	TIS10GN05x
+Number:	329
+Address:	0x270e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP01x { 
+Name:	TIG10RP01x
+Number:	330
+Address:	0x2800
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP02x { 
+Name:	TIG10RP02x
+Number:	331
+Address:	0x2801
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP03x { 
+Name:	TIG10RP03x
+Number:	332
+Address:	0x2802
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP04x { 
+Name:	TIG10RP04x
+Number:	333
+Address:	0x2803
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP05x { 
+Name:	TIG10RP05x
+Number:	334
+Address:	0x2804
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP06x { 
+Name:	TIG10RP06x
+Number:	335
+Address:	0x2805
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP07x { 
+Name:	TIG10RP07x
+Number:	336
+Address:	0x2806
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RP08x { 
+Name:	TIG10RP08x
+Number:	337
+Address:	0x2807
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RN00B { 
+Name:	TIG10RN00B
+Number:	338
+Address:	0x2809
+Digitizer:	GRF16
+EngCoeff:	-1.51935 1.70795 -3.60688e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10RN00A { 
+Name:	TIG10RN00A
+Number:	339
+Address:	0x2808
+Digitizer:	GRF16
+EngCoeff:	-1.51935 1.70795 -3.60688e-06
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10RN01x { 
+Name:	TIS10RN01x
+Number:	340
+Address:	0x280a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10RN02x { 
+Name:	TIS10RN02x
+Number:	341
+Address:	0x280b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10RN03x { 
+Name:	TIS10RN03x
+Number:	342
+Address:	0x280c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10RN04x { 
+Name:	TIS10RN04x
+Number:	343
+Address:	0x280d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10RN05x { 
+Name:	TIS10RN05x
+Number:	344
+Address:	0x280e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP01x { 
+Name:	TIG10WP01x
+Number:	345
+Address:	0x2900
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP02x { 
+Name:	TIG10WP02x
+Number:	346
+Address:	0x2901
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP03x { 
+Name:	TIG10WP03x
+Number:	347
+Address:	0x2902
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP04x { 
+Name:	TIG10WP04x
+Number:	348
+Address:	0x2903
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP05x { 
+Name:	TIG10WP05x
+Number:	349
+Address:	0x2904
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP06x { 
+Name:	TIG10WP06x
+Number:	350
+Address:	0x2905
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP07x { 
+Name:	TIG10WP07x
+Number:	351
+Address:	0x2906
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WP08x { 
+Name:	TIG10WP08x
+Number:	352
+Address:	0x2907
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WN00B { 
+Name:	TIG10WN00B
+Number:	353
+Address:	0x2908
+Digitizer:	GRF16
+EngCoeff:	-0.442638 1.275 -1.06961e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG10WN00A { 
+Name:	TIG10WN00A
+Number:	354
+Address:	0x2909
+Digitizer:	GRF16
+EngCoeff:	-0.442638 1.275 -1.06961e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10WN01x { 
+Name:	TIS10WN01x
+Number:	355
+Address:	0x290a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10WN02x { 
+Name:	TIS10WN02x
+Number:	356
+Address:	0x290b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10WN03x { 
+Name:	TIS10WN03x
+Number:	357
+Address:	0x290c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10WN04x { 
+Name:	TIS10WN04x
+Number:	358
+Address:	0x290d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS10WN05x { 
+Name:	TIS10WN05x
+Number:	359
+Address:	0x290e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP01x { 
+Name:	TIG11BP01x
+Number:	360
+Address:	0x2300
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP02x { 
+Name:	TIG11BP02x
+Number:	361
+Address:	0x2301
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP03x { 
+Name:	TIG11BP03x
+Number:	362
+Address:	0x2302
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP04x { 
+Name:	TIG11BP04x
+Number:	363
+Address:	0x2303
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP05x { 
+Name:	TIG11BP05x
+Number:	364
+Address:	0x2304
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP06x { 
+Name:	TIG11BP06x
+Number:	365
+Address:	0x2305
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP07x { 
+Name:	TIG11BP07x
+Number:	366
+Address:	0x2306
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BP08x { 
+Name:	TIG11BP08x
+Number:	367
+Address:	0x2307
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BN00B { 
+Name:	TIG11BN00B
+Number:	368
+Address:	0x2308
+Digitizer:	GRF16
+EngCoeff:	-0.211225 1.26909 -2.56031e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11BN00A { 
+Name:	TIG11BN00A
+Number:	369
+Address:	0x2309
+Digitizer:	GRF16
+EngCoeff:	-0.211225 1.26909 -2.56031e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11BN01x { 
+Name:	TIS11BN01x
+Number:	370
+Address:	0x230a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11BN02x { 
+Name:	TIS11BN02x
+Number:	371
+Address:	0x230b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11BN03x { 
+Name:	TIS11BN03x
+Number:	372
+Address:	0x230c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11BN04x { 
+Name:	TIS11BN04x
+Number:	373
+Address:	0x230d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11BN05x { 
+Name:	TIS11BN05x
+Number:	374
+Address:	0x230e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP01x { 
+Name:	TIG11GP01x
+Number:	375
+Address:	0x2d00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP02x { 
+Name:	TIG11GP02x
+Number:	376
+Address:	0x2d01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP03x { 
+Name:	TIG11GP03x
+Number:	377
+Address:	0x2d02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP04x { 
+Name:	TIG11GP04x
+Number:	378
+Address:	0x2d03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP05x { 
+Name:	TIG11GP05x
+Number:	379
+Address:	0x2d04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP06x { 
+Name:	TIG11GP06x
+Number:	380
+Address:	0x2d05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP07x { 
+Name:	TIG11GP07x
+Number:	381
+Address:	0x2d06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GP08x { 
+Name:	TIG11GP08x
+Number:	382
+Address:	0x2d07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GN00B { 
+Name:	TIG11GN00B
+Number:	383
+Address:	0x2d08
+Digitizer:	GRF16
+EngCoeff:	0.0744196 1.26419 1.73797e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11GN00A { 
+Name:	TIG11GN00A
+Number:	384
+Address:	0x2d09
+Digitizer:	GRF16
+EngCoeff:	0.0744196 1.26419 1.73797e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11GN01x { 
+Name:	TIS11GN01x
+Number:	385
+Address:	0x2d0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11GN02x { 
+Name:	TIS11GN02x
+Number:	386
+Address:	0x2d0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11GN03x { 
+Name:	TIS11GN03x
+Number:	387
+Address:	0x2d0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11GN04x { 
+Name:	TIS11GN04x
+Number:	388
+Address:	0x2d0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11GN05x { 
+Name:	TIS11GN05x
+Number:	389
+Address:	0x2d0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP01x { 
+Name:	TIG11RP01x
+Number:	390
+Address:	0x2e00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP02x { 
+Name:	TIG11RP02x
+Number:	391
+Address:	0x2e01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP03x { 
+Name:	TIG11RP03x
+Number:	392
+Address:	0x2e02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP04x { 
+Name:	TIG11RP04x
+Number:	393
+Address:	0x2e03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP05x { 
+Name:	TIG11RP05x
+Number:	394
+Address:	0x2e04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP06x { 
+Name:	TIG11RP06x
+Number:	395
+Address:	0x2e05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP07x { 
+Name:	TIG11RP07x
+Number:	396
+Address:	0x2e06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RP08x { 
+Name:	TIG11RP08x
+Number:	397
+Address:	0x2e07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RN00B { 
+Name:	TIG11RN00B
+Number:	398
+Address:	0x2e08
+Digitizer:	GRF16
+EngCoeff:	-0.499191 1.31822 -6.16955e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11RN00A { 
+Name:	TIG11RN00A
+Number:	399
+Address:	0x2e09
+Digitizer:	GRF16
+EngCoeff:	-0.499191 1.31822 -6.16955e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11RN01x { 
+Name:	TIS11RN01x
+Number:	400
+Address:	0x2e0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11RN02x { 
+Name:	TIS11RN02x
+Number:	401
+Address:	0x2e0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11RN03x { 
+Name:	TIS11RN03x
+Number:	402
+Address:	0x2e0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11RN04x { 
+Name:	TIS11RN04x
+Number:	403
+Address:	0x2e0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11RN05x { 
+Name:	TIS11RN05x
+Number:	404
+Address:	0x2e0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP01x { 
+Name:	TIG11WP01x
+Number:	405
+Address:	0x2f00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP02x { 
+Name:	TIG11WP02x
+Number:	406
+Address:	0x2f01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP03x { 
+Name:	TIG11WP03x
+Number:	407
+Address:	0x2f02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP04x { 
+Name:	TIG11WP04x
+Number:	408
+Address:	0x2f03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP05x { 
+Name:	TIG11WP05x
+Number:	409
+Address:	0x2f04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP06x { 
+Name:	TIG11WP06x
+Number:	410
+Address:	0x2f05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP07x { 
+Name:	TIG11WP07x
+Number:	411
+Address:	0x2f06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WP08x { 
+Name:	TIG11WP08x
+Number:	412
+Address:	0x2f07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WN00B { 
+Name:	TIG11WN00B
+Number:	413
+Address:	0x2f08
+Digitizer:	GRF16
+EngCoeff:	0.0138481 1.28091 -7.28753e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG11WN00A { 
+Name:	TIG11WN00A
+Number:	414
+Address:	0x2f09
+Digitizer:	GRF16
+EngCoeff:	0.0138481 1.28091 -7.28753e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11WN01x { 
+Name:	TIS11WN01x
+Number:	415
+Address:	0x2f0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11WN02x { 
+Name:	TIS11WN02x
+Number:	416
+Address:	0x2f0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11WN03x { 
+Name:	TIS11WN03x
+Number:	417
+Address:	0x2f0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11WN04x { 
+Name:	TIS11WN04x
+Number:	418
+Address:	0x2f0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS11WN05x { 
+Name:	TIS11WN05x
+Number:	419
+Address:	0x2f0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP01x { 
+Name:	TIG12BP01x
+Number:	420
+Address:	0x2200
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP02x { 
+Name:	TIG12BP02x
+Number:	421
+Address:	0x2201
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP03x { 
+Name:	TIG12BP03x
+Number:	422
+Address:	0x2202
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP04x { 
+Name:	TIG12BP04x
+Number:	423
+Address:	0x2203
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP05x { 
+Name:	TIG12BP05x
+Number:	424
+Address:	0x2204
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP06x { 
+Name:	TIG12BP06x
+Number:	425
+Address:	0x2205
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP07x { 
+Name:	TIG12BP07x
+Number:	426
+Address:	0x2206
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BP08x { 
+Name:	TIG12BP08x
+Number:	427
+Address:	0x2207
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BN00B { 
+Name:	TIG12BN00B
+Number:	428
+Address:	0x2208
+Digitizer:	GRF16
+EngCoeff:	-0.560674 1.34374 -6.14153e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12BN00A { 
+Name:	TIG12BN00A
+Number:	429
+Address:	0x2209
+Digitizer:	GRF16
+EngCoeff:	-0.560674 1.34374 -6.14153e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12BN01x { 
+Name:	TIS12BN01x
+Number:	430
+Address:	0x220a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12BN02x { 
+Name:	TIS12BN02x
+Number:	431
+Address:	0x220b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12BN03x { 
+Name:	TIS12BN03x
+Number:	432
+Address:	0x220c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12BN04x { 
+Name:	TIS12BN04x
+Number:	433
+Address:	0x220d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12BN05x { 
+Name:	TIS12BN05x
+Number:	434
+Address:	0x220e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP01x { 
+Name:	TIG12GP01x
+Number:	435
+Address:	0x2a00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP02x { 
+Name:	TIG12GP02x
+Number:	436
+Address:	0x2a01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP03x { 
+Name:	TIG12GP03x
+Number:	437
+Address:	0x2a02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP04x { 
+Name:	TIG12GP04x
+Number:	438
+Address:	0x2a03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP05x { 
+Name:	TIG12GP05x
+Number:	439
+Address:	0x2a04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP06x { 
+Name:	TIG12GP06x
+Number:	440
+Address:	0x2a05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP07x { 
+Name:	TIG12GP07x
+Number:	441
+Address:	0x2a06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GP08x { 
+Name:	TIG12GP08x
+Number:	442
+Address:	0x2a07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GN00B { 
+Name:	TIG12GN00B
+Number:	443
+Address:	0x2a08
+Digitizer:	GRF16
+EngCoeff:	-0.600641 1.3209 -4.82063e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12GN00A { 
+Name:	TIG12GN00A
+Number:	444
+Address:	0x2a09
+Digitizer:	GRF16
+EngCoeff:	-0.600641 1.3209 -4.82063e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12GN01x { 
+Name:	TIS12GN01x
+Number:	445
+Address:	0x2a0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12GN02x { 
+Name:	TIS12GN02x
+Number:	446
+Address:	0x2a0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12GN03x { 
+Name:	TIS12GN03x
+Number:	447
+Address:	0x2a0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12GN04x { 
+Name:	TIS12GN04x
+Number:	448
+Address:	0x2a0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12GN05x { 
+Name:	TIS12GN05x
+Number:	449
+Address:	0x2a0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP01x { 
+Name:	TIG12RP01x
+Number:	450
+Address:	0x2b00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP02x { 
+Name:	TIG12RP02x
+Number:	451
+Address:	0x2b01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP03x { 
+Name:	TIG12RP03x
+Number:	452
+Address:	0x2b02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP04x { 
+Name:	TIG12RP04x
+Number:	453
+Address:	0x2b03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP05x { 
+Name:	TIG12RP05x
+Number:	454
+Address:	0x2b04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP06x { 
+Name:	TIG12RP06x
+Number:	455
+Address:	0x2b05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP07x { 
+Name:	TIG12RP07x
+Number:	456
+Address:	0x2b06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RP08x { 
+Name:	TIG12RP08x
+Number:	457
+Address:	0x2b07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RN00B { 
+Name:	TIG12RN00B
+Number:	458
+Address:	0x2b08
+Digitizer:	GRF16
+EngCoeff:	0.0635715 1.09089 -6.08032e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12RN00A { 
+Name:	TIG12RN00A
+Number:	459
+Address:	0x2b09
+Digitizer:	GRF16
+EngCoeff:	0.0635715 1.09089 -6.08032e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12RN01x { 
+Name:	TIS12RN01x
+Number:	460
+Address:	0x2b0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12RN02x { 
+Name:	TIS12RN02x
+Number:	461
+Address:	0x2b0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12RN03x { 
+Name:	TIS12RN03x
+Number:	462
+Address:	0x2b0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12RN04x { 
+Name:	TIS12RN04x
+Number:	463
+Address:	0x2b0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12RN05x { 
+Name:	TIS12RN05x
+Number:	464
+Address:	0x2b0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP01x { 
+Name:	TIG12WP01x
+Number:	465
+Address:	0x2c00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP02x { 
+Name:	TIG12WP02x
+Number:	466
+Address:	0x2c01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP03x { 
+Name:	TIG12WP03x
+Number:	467
+Address:	0x2c02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP04x { 
+Name:	TIG12WP04x
+Number:	468
+Address:	0x2c03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP05x { 
+Name:	TIG12WP05x
+Number:	469
+Address:	0x2c04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP06x { 
+Name:	TIG12WP06x
+Number:	470
+Address:	0x2c05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP07x { 
+Name:	TIG12WP07x
+Number:	471
+Address:	0x2c06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WP08x { 
+Name:	TIG12WP08x
+Number:	472
+Address:	0x2c07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WN00B { 
+Name:	TIG12WN00B
+Number:	473
+Address:	0x2c08
+Digitizer:	GRF16
+EngCoeff:	-0.187485 1.32404 -3.33506e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG12WN00A { 
+Name:	TIG12WN00A
+Number:	474
+Address:	0x2c09
+Digitizer:	GRF16
+EngCoeff:	-0.187485 1.32404 -3.33506e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12WN01x { 
+Name:	TIS12WN01x
+Number:	475
+Address:	0x2c0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12WN02x { 
+Name:	TIS12WN02x
+Number:	476
+Address:	0x2c0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12WN03x { 
+Name:	TIS12WN03x
+Number:	477
+Address:	0x2c0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12WN04x { 
+Name:	TIS12WN04x
+Number:	478
+Address:	0x2c0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS12WN05x { 
+Name:	TIS12WN05x
+Number:	479
+Address:	0x2c0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP01x { 
+Name:	TIG13BP01x
+Number:	480
+Address:	0x0100
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP02x { 
+Name:	TIG13BP02x
+Number:	481
+Address:	0x0101
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP03x { 
+Name:	TIG13BP03x
+Number:	482
+Address:	0x0102
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP04x { 
+Name:	TIG13BP04x
+Number:	483
+Address:	0x0103
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP05x { 
+Name:	TIG13BP05x
+Number:	484
+Address:	0x0104
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP06x { 
+Name:	TIG13BP06x
+Number:	485
+Address:	0x0105
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP07x { 
+Name:	TIG13BP07x
+Number:	486
+Address:	0x0106
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BP08x { 
+Name:	TIG13BP08x
+Number:	487
+Address:	0x0107
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BN00B { 
+Name:	TIG13BN00B
+Number:	488
+Address:	0x0108
+Digitizer:	GRF16
+EngCoeff:	0.150362 1.28096 -2.40261e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13BN00A { 
+Name:	TIG13BN00A
+Number:	489
+Address:	0x0109
+Digitizer:	GRF16
+EngCoeff:	0.150362 1.28096 -2.40261e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13BN01x { 
+Name:	TIS13BN01x
+Number:	490
+Address:	0x010a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13BN02x { 
+Name:	TIS13BN02x
+Number:	491
+Address:	0x010b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13BN03x { 
+Name:	TIS13BN03x
+Number:	492
+Address:	0x010c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13BN04x { 
+Name:	TIS13BN04x
+Number:	493
+Address:	0x010d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13BN05x { 
+Name:	TIS13BN05x
+Number:	494
+Address:	0x010e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP01x { 
+Name:	TIG13GP01x
+Number:	495
+Address:	0x0700
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP02x { 
+Name:	TIG13GP02x
+Number:	496
+Address:	0x0701
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP03x { 
+Name:	TIG13GP03x
+Number:	497
+Address:	0x0702
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP04x { 
+Name:	TIG13GP04x
+Number:	498
+Address:	0x0703
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP05x { 
+Name:	TIG13GP05x
+Number:	499
+Address:	0x0704
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP06x { 
+Name:	TIG13GP06x
+Number:	500
+Address:	0x0705
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP07x { 
+Name:	TIG13GP07x
+Number:	501
+Address:	0x0706
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GP08x { 
+Name:	TIG13GP08x
+Number:	502
+Address:	0x0707
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GN00B { 
+Name:	TIG13GN00B
+Number:	503
+Address:	0x0708
+Digitizer:	GRF16
+EngCoeff:	-0.16018 1.31126 -2.24015e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13GN00A { 
+Name:	TIG13GN00A
+Number:	504
+Address:	0x0709
+Digitizer:	GRF16
+EngCoeff:	-0.16018 1.31126 -2.24015e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13GN01x { 
+Name:	TIS13GN01x
+Number:	505
+Address:	0x070a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13GN02x { 
+Name:	TIS13GN02x
+Number:	506
+Address:	0x070b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13GN03x { 
+Name:	TIS13GN03x
+Number:	507
+Address:	0x070c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13GN04x { 
+Name:	TIS13GN04x
+Number:	508
+Address:	0x070d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13GN05x { 
+Name:	TIS13GN05x
+Number:	509
+Address:	0x070e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP01x { 
+Name:	TIG13RP01x
+Number:	510
+Address:	0x0800
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP02x { 
+Name:	TIG13RP02x
+Number:	511
+Address:	0x0801
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP03x { 
+Name:	TIG13RP03x
+Number:	512
+Address:	0x0802
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP04x { 
+Name:	TIG13RP04x
+Number:	513
+Address:	0x0803
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP05x { 
+Name:	TIG13RP05x
+Number:	514
+Address:	0x0804
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP06x { 
+Name:	TIG13RP06x
+Number:	515
+Address:	0x0805
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP07x { 
+Name:	TIG13RP07x
+Number:	516
+Address:	0x0806
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RP08x { 
+Name:	TIG13RP08x
+Number:	517
+Address:	0x0807
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RN00B { 
+Name:	TIG13RN00B
+Number:	518
+Address:	0x0808
+Digitizer:	GRF16
+EngCoeff:	-0.419455 1.34564 -3.31003e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13RN00A { 
+Name:	TIG13RN00A
+Number:	519
+Address:	0x0809
+Digitizer:	GRF16
+EngCoeff:	-0.419455 1.34564 -3.31003e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13RN01x { 
+Name:	TIS13RN01x
+Number:	520
+Address:	0x080a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13RN02x { 
+Name:	TIS13RN02x
+Number:	521
+Address:	0x080b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13RN03x { 
+Name:	TIS13RN03x
+Number:	522
+Address:	0x080c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13RN04x { 
+Name:	TIS13RN04x
+Number:	523
+Address:	0x080d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13RN05x { 
+Name:	TIS13RN05x
+Number:	524
+Address:	0x080e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP01x { 
+Name:	TIG13WP01x
+Number:	525
+Address:	0x0900
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP02x { 
+Name:	TIG13WP02x
+Number:	526
+Address:	0x0901
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP03x { 
+Name:	TIG13WP03x
+Number:	527
+Address:	0x0902
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP04x { 
+Name:	TIG13WP04x
+Number:	528
+Address:	0x0903
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP05x { 
+Name:	TIG13WP05x
+Number:	529
+Address:	0x0904
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP06x { 
+Name:	TIG13WP06x
+Number:	530
+Address:	0x0905
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP07x { 
+Name:	TIG13WP07x
+Number:	531
+Address:	0x0906
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WP08x { 
+Name:	TIG13WP08x
+Number:	532
+Address:	0x0907
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WN00B { 
+Name:	TIG13WN00B
+Number:	533
+Address:	0x0908
+Digitizer:	GRF16
+EngCoeff:	-0.0393272 1.32199 3.91596e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG13WN00A { 
+Name:	TIG13WN00A
+Number:	534
+Address:	0x0909
+Digitizer:	GRF16
+EngCoeff:	-0.0393272 1.32199 3.91596e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13WN01x { 
+Name:	TIS13WN01x
+Number:	535
+Address:	0x090a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13WN02x { 
+Name:	TIS13WN02x
+Number:	536
+Address:	0x090b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13WN03x { 
+Name:	TIS13WN03x
+Number:	537
+Address:	0x090c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13WN04x { 
+Name:	TIS13WN04x
+Number:	538
+Address:	0x090d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS13WN05x { 
+Name:	TIS13WN05x
+Number:	539
+Address:	0x090e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP01x { 
+Name:	TIG14BP01x
+Number:	540
+Address:	0x1100
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP02x { 
+Name:	TIG14BP02x
+Number:	541
+Address:	0x1101
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP03x { 
+Name:	TIG14BP03x
+Number:	542
+Address:	0x1102
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP04x { 
+Name:	TIG14BP04x
+Number:	543
+Address:	0x1103
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP05x { 
+Name:	TIG14BP05x
+Number:	544
+Address:	0x1104
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP06x { 
+Name:	TIG14BP06x
+Number:	545
+Address:	0x1105
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP07x { 
+Name:	TIG14BP07x
+Number:	546
+Address:	0x1106
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BP08x { 
+Name:	TIG14BP08x
+Number:	547
+Address:	0x1107
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BN00B { 
+Name:	TIG14BN00B
+Number:	548
+Address:	0x1108
+Digitizer:	GRF16
+EngCoeff:	0.4034 1.31171 1.12552e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14BN00A { 
+Name:	TIG14BN00A
+Number:	549
+Address:	0x1109
+Digitizer:	GRF16
+EngCoeff:	0.4034 1.31171 1.12552e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14BN01x { 
+Name:	TIS14BN01x
+Number:	550
+Address:	0x110a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14BN02x { 
+Name:	TIS14BN02x
+Number:	551
+Address:	0x110b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14BN03x { 
+Name:	TIS14BN03x
+Number:	552
+Address:	0x110c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14BN04x { 
+Name:	TIS14BN04x
+Number:	553
+Address:	0x110d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14BN05x { 
+Name:	TIS14BN05x
+Number:	554
+Address:	0x110e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP01x { 
+Name:	TIG14GP01x
+Number:	555
+Address:	0x1700
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP02x { 
+Name:	TIG14GP02x
+Number:	556
+Address:	0x1701
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP03x { 
+Name:	TIG14GP03x
+Number:	557
+Address:	0x1702
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP04x { 
+Name:	TIG14GP04x
+Number:	558
+Address:	0x1703
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP05x { 
+Name:	TIG14GP05x
+Number:	559
+Address:	0x1704
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP06x { 
+Name:	TIG14GP06x
+Number:	560
+Address:	0x1705
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP07x { 
+Name:	TIG14GP07x
+Number:	561
+Address:	0x1706
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GP08x { 
+Name:	TIG14GP08x
+Number:	562
+Address:	0x1707
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GN00B { 
+Name:	TIG14GN00B
+Number:	563
+Address:	0x1708
+Digitizer:	GRF16
+EngCoeff:	0.1133 1.3038 2.37169e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14GN00A { 
+Name:	TIG14GN00A
+Number:	564
+Address:	0x1709
+Digitizer:	GRF16
+EngCoeff:	0.1133 1.3038 2.37169e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14GN01x { 
+Name:	TIS14GN01x
+Number:	565
+Address:	0x170a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14GN02x { 
+Name:	TIS14GN02x
+Number:	566
+Address:	0x170b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14GN03x { 
+Name:	TIS14GN03x
+Number:	567
+Address:	0x170c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14GN04x { 
+Name:	TIS14GN04x
+Number:	568
+Address:	0x170d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14GN05x { 
+Name:	TIS14GN05x
+Number:	569
+Address:	0x170e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP01x { 
+Name:	TIG14RP01x
+Number:	570
+Address:	0x1800
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP02x { 
+Name:	TIG14RP02x
+Number:	571
+Address:	0x1801
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP03x { 
+Name:	TIG14RP03x
+Number:	572
+Address:	0x1802
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP04x { 
+Name:	TIG14RP04x
+Number:	573
+Address:	0x1803
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP05x { 
+Name:	TIG14RP05x
+Number:	574
+Address:	0x1804
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP06x { 
+Name:	TIG14RP06x
+Number:	575
+Address:	0x1805
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP07x { 
+Name:	TIG14RP07x
+Number:	576
+Address:	0x1806
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RP08x { 
+Name:	TIG14RP08x
+Number:	577
+Address:	0x1807
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RN00B { 
+Name:	TIG14RN00B
+Number:	578
+Address:	0x1808
+Digitizer:	GRF16
+EngCoeff:	0.228478 1.31686 -4.67274e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14RN00A { 
+Name:	TIG14RN00A
+Number:	579
+Address:	0x1809
+Digitizer:	GRF16
+EngCoeff:	0.228478 1.31686 -4.67274e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14RN01x { 
+Name:	TIS14RN01x
+Number:	580
+Address:	0x180a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14RN02x { 
+Name:	TIS14RN02x
+Number:	581
+Address:	0x180b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14RN03x { 
+Name:	TIS14RN03x
+Number:	582
+Address:	0x180c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14RN04x { 
+Name:	TIS14RN04x
+Number:	583
+Address:	0x180d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14RN05x { 
+Name:	TIS14RN05x
+Number:	584
+Address:	0x180e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP01x { 
+Name:	TIG14WP01x
+Number:	585
+Address:	0x1900
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP02x { 
+Name:	TIG14WP02x
+Number:	586
+Address:	0x1901
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP03x { 
+Name:	TIG14WP03x
+Number:	587
+Address:	0x1902
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP04x { 
+Name:	TIG14WP04x
+Number:	588
+Address:	0x1903
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP05x { 
+Name:	TIG14WP05x
+Number:	589
+Address:	0x1904
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP06x { 
+Name:	TIG14WP06x
+Number:	590
+Address:	0x1905
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP07x { 
+Name:	TIG14WP07x
+Number:	591
+Address:	0x1906
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WP08x { 
+Name:	TIG14WP08x
+Number:	592
+Address:	0x1907
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WN00B { 
+Name:	TIG14WN00B
+Number:	593
+Address:	0x1908
+Digitizer:	GRF16
+EngCoeff:	-0.0720918 1.34043 -8.8909e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG14WN00A { 
+Name:	TIG14WN00A
+Number:	594
+Address:	0x1909
+Digitizer:	GRF16
+EngCoeff:	-0.0720918 1.34043 -8.8909e-08
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14WN01x { 
+Name:	TIS14WN01x
+Number:	595
+Address:	0x190a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14WN02x { 
+Name:	TIS14WN02x
+Number:	596
+Address:	0x190b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14WN03x { 
+Name:	TIS14WN03x
+Number:	597
+Address:	0x190c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14WN04x { 
+Name:	TIS14WN04x
+Number:	598
+Address:	0x190d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS14WN05x { 
+Name:	TIS14WN05x
+Number:	599
+Address:	0x190e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP01x { 
+Name:	TIG15BP01x
+Number:	600
+Address:	0x1000
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP02x { 
+Name:	TIG15BP02x
+Number:	601
+Address:	0x1001
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP03x { 
+Name:	TIG15BP03x
+Number:	602
+Address:	0x1002
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP04x { 
+Name:	TIG15BP04x
+Number:	603
+Address:	0x1003
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP05x { 
+Name:	TIG15BP05x
+Number:	604
+Address:	0x1004
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP06x { 
+Name:	TIG15BP06x
+Number:	605
+Address:	0x1005
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP07x { 
+Name:	TIG15BP07x
+Number:	606
+Address:	0x1006
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BP08x { 
+Name:	TIG15BP08x
+Number:	607
+Address:	0x1007
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BN00B { 
+Name:	TIG15BN00B
+Number:	608
+Address:	0x1008
+Digitizer:	GRF16
+EngCoeff:	-0.336541 1.36149 -2.48096e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15BN00A { 
+Name:	TIG15BN00A
+Number:	609
+Address:	0x1009
+Digitizer:	GRF16
+EngCoeff:	-0.336541 1.36149 -2.48096e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15BN01x { 
+Name:	TIS15BN01x
+Number:	610
+Address:	0x100a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15BN02x { 
+Name:	TIS15BN02x
+Number:	611
+Address:	0x100b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15BN03x { 
+Name:	TIS15BN03x
+Number:	612
+Address:	0x100c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15BN04x { 
+Name:	TIS15BN04x
+Number:	613
+Address:	0x100d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15BN05x { 
+Name:	TIS15BN05x
+Number:	614
+Address:	0x100e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP01x { 
+Name:	TIG15GP01x
+Number:	615
+Address:	0x1400
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP02x { 
+Name:	TIG15GP02x
+Number:	616
+Address:	0x1401
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP03x { 
+Name:	TIG15GP03x
+Number:	617
+Address:	0x1402
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP04x { 
+Name:	TIG15GP04x
+Number:	618
+Address:	0x1403
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP05x { 
+Name:	TIG15GP05x
+Number:	619
+Address:	0x1404
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP06x { 
+Name:	TIG15GP06x
+Number:	620
+Address:	0x1405
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP07x { 
+Name:	TIG15GP07x
+Number:	621
+Address:	0x1406
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GP08x { 
+Name:	TIG15GP08x
+Number:	622
+Address:	0x1407
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GN00B { 
+Name:	TIG15GN00B
+Number:	623
+Address:	0x1408
+Digitizer:	GRF16
+EngCoeff:	-0.605874 1.39786 -6.11994e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15GN00A { 
+Name:	TIG15GN00A
+Number:	624
+Address:	0x1409
+Digitizer:	GRF16
+EngCoeff:	-0.605874 1.39786 -6.11994e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15GN01x { 
+Name:	TIS15GN01x
+Number:	625
+Address:	0x140a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15GN02x { 
+Name:	TIS15GN02x
+Number:	626
+Address:	0x140b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15GN03x { 
+Name:	TIS15GN03x
+Number:	627
+Address:	0x140c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15GN04x { 
+Name:	TIS15GN04x
+Number:	628
+Address:	0x140d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15GN05x { 
+Name:	TIS15GN05x
+Number:	629
+Address:	0x140e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP01x { 
+Name:	TIG15RP01x
+Number:	630
+Address:	0x1500
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP02x { 
+Name:	TIG15RP02x
+Number:	631
+Address:	0x1501
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP03x { 
+Name:	TIG15RP03x
+Number:	632
+Address:	0x1502
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP04x { 
+Name:	TIG15RP04x
+Number:	633
+Address:	0x1503
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP05x { 
+Name:	TIG15RP05x
+Number:	634
+Address:	0x1504
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP06x { 
+Name:	TIG15RP06x
+Number:	635
+Address:	0x1505
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP07x { 
+Name:	TIG15RP07x
+Number:	636
+Address:	0x1506
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RP08x { 
+Name:	TIG15RP08x
+Number:	637
+Address:	0x1507
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RN00B { 
+Name:	TIG15RN00B
+Number:	638
+Address:	0x1508
+Digitizer:	GRF16
+EngCoeff:	-0.126695 1.39261 -5.42392e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15RN00A { 
+Name:	TIG15RN00A
+Number:	639
+Address:	0x1509
+Digitizer:	GRF16
+EngCoeff:	-0.126695 1.39261 -5.42392e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15RN01x { 
+Name:	TIS15RN01x
+Number:	640
+Address:	0x150a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15RN02x { 
+Name:	TIS15RN02x
+Number:	641
+Address:	0x150b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15RN03x { 
+Name:	TIS15RN03x
+Number:	642
+Address:	0x150c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15RN04x { 
+Name:	TIS15RN04x
+Number:	643
+Address:	0x150d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15RN05x { 
+Name:	TIS15RN05x
+Number:	644
+Address:	0x150e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP01x { 
+Name:	TIG15WP01x
+Number:	645
+Address:	0x1600
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP02x { 
+Name:	TIG15WP02x
+Number:	646
+Address:	0x1601
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP03x { 
+Name:	TIG15WP03x
+Number:	647
+Address:	0x1602
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP04x { 
+Name:	TIG15WP04x
+Number:	648
+Address:	0x1603
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP05x { 
+Name:	TIG15WP05x
+Number:	649
+Address:	0x1604
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP06x { 
+Name:	TIG15WP06x
+Number:	650
+Address:	0x1605
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP07x { 
+Name:	TIG15WP07x
+Number:	651
+Address:	0x1606
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WP08x { 
+Name:	TIG15WP08x
+Number:	652
+Address:	0x1607
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WN00B { 
+Name:	TIG15WN00B
+Number:	653
+Address:	0x1608
+Digitizer:	GRF16
+EngCoeff:	-0.498803 1.36252 -3.1543e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG15WN00A { 
+Name:	TIG15WN00A
+Number:	654
+Address:	0x1609
+Digitizer:	GRF16
+EngCoeff:	-0.498803 1.36252 -3.1543e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15WN01x { 
+Name:	TIS15WN01x
+Number:	655
+Address:	0x160a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15WN02x { 
+Name:	TIS15WN02x
+Number:	656
+Address:	0x160b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15WN03x { 
+Name:	TIS15WN03x
+Number:	657
+Address:	0x160c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15WN04x { 
+Name:	TIS15WN04x
+Number:	658
+Address:	0x160d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS15WN05x { 
+Name:	TIS15WN05x
+Number:	659
+Address:	0x160e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP01x { 
+Name:	TIG16BP01x
+Number:	660
+Address:	0x0300
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP02x { 
+Name:	TIG16BP02x
+Number:	661
+Address:	0x0301
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP03x { 
+Name:	TIG16BP03x
+Number:	662
+Address:	0x0302
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP04x { 
+Name:	TIG16BP04x
+Number:	663
+Address:	0x0303
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP05x { 
+Name:	TIG16BP05x
+Number:	664
+Address:	0x0304
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP06x { 
+Name:	TIG16BP06x
+Number:	665
+Address:	0x0305
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP07x { 
+Name:	TIG16BP07x
+Number:	666
+Address:	0x0306
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BP08x { 
+Name:	TIG16BP08x
+Number:	667
+Address:	0x0307
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BN00B { 
+Name:	TIG16BN00B
+Number:	668
+Address:	0x0308
+Digitizer:	GRF16
+EngCoeff:	0.134639 1.36268 -5.97066e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16BN00A { 
+Name:	TIG16BN00A
+Number:	669
+Address:	0x0309
+Digitizer:	GRF16
+EngCoeff:	0.134639 1.36268 -5.97066e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16BN01x { 
+Name:	TIS16BN01x
+Number:	670
+Address:	0x030a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16BN02x { 
+Name:	TIS16BN02x
+Number:	671
+Address:	0x030b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16BN03x { 
+Name:	TIS16BN03x
+Number:	672
+Address:	0x030c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16BN04x { 
+Name:	TIS16BN04x
+Number:	673
+Address:	0x030d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16BN05x { 
+Name:	TIS16BN05x
+Number:	674
+Address:	0x030e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP01x { 
+Name:	TIG16GP01x
+Number:	675
+Address:	0x0d00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP02x { 
+Name:	TIG16GP02x
+Number:	676
+Address:	0x0d01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP03x { 
+Name:	TIG16GP03x
+Number:	677
+Address:	0x0d02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP04x { 
+Name:	TIG16GP04x
+Number:	678
+Address:	0x0d03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP05x { 
+Name:	TIG16GP05x
+Number:	679
+Address:	0x0d04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP06x { 
+Name:	TIG16GP06x
+Number:	680
+Address:	0x0d05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP07x { 
+Name:	TIG16GP07x
+Number:	681
+Address:	0x0d06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GP08x { 
+Name:	TIG16GP08x
+Number:	682
+Address:	0x0d07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GN00B { 
+Name:	TIG16GN00B
+Number:	683
+Address:	0x0d08
+Digitizer:	GRF16
+EngCoeff:	-0.326953 1.34486 -4.2418e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16GN00A { 
+Name:	TIG16GN00A
+Number:	684
+Address:	0x0d09
+Digitizer:	GRF16
+EngCoeff:	-0.326953 1.34486 -4.2418e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16GN01x { 
+Name:	TIS16GN01x
+Number:	685
+Address:	0x0d0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16GN02x { 
+Name:	TIS16GN02x
+Number:	686
+Address:	0x0d0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16GN03x { 
+Name:	TIS16GN03x
+Number:	687
+Address:	0x0d0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16GN04x { 
+Name:	TIS16GN04x
+Number:	688
+Address:	0x0d0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16GN05x { 
+Name:	TIS16GN05x
+Number:	689
+Address:	0x0d0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP01x { 
+Name:	TIG16RP01x
+Number:	690
+Address:	0x0e00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP02x { 
+Name:	TIG16RP02x
+Number:	691
+Address:	0x0e01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP03x { 
+Name:	TIG16RP03x
+Number:	692
+Address:	0x0e02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP04x { 
+Name:	TIG16RP04x
+Number:	693
+Address:	0x0e03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP05x { 
+Name:	TIG16RP05x
+Number:	694
+Address:	0x0e04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP06x { 
+Name:	TIG16RP06x
+Number:	695
+Address:	0x0e05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP07x { 
+Name:	TIG16RP07x
+Number:	696
+Address:	0x0e06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RP08x { 
+Name:	TIG16RP08x
+Number:	697
+Address:	0x0e07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RN00B { 
+Name:	TIG16RN00B
+Number:	698
+Address:	0x0e08
+Digitizer:	GRF16
+EngCoeff:	-0.468906 1.37608 -5.15389e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16RN00A { 
+Name:	TIG16RN00A
+Number:	699
+Address:	0x0e09
+Digitizer:	GRF16
+EngCoeff:	-0.468906 1.37608 -5.15389e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16RN01x { 
+Name:	TIS16RN01x
+Number:	700
+Address:	0x0e0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16RN02x { 
+Name:	TIS16RN02x
+Number:	701
+Address:	0x0e0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16RN03x { 
+Name:	TIS16RN03x
+Number:	702
+Address:	0x0e0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16RN04x { 
+Name:	TIS16RN04x
+Number:	703
+Address:	0x0e0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16RN05x { 
+Name:	TIS16RN05x
+Number:	704
+Address:	0x0e0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP01x { 
+Name:	TIG16WP01x
+Number:	705
+Address:	0x0f00
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP02x { 
+Name:	TIG16WP02x
+Number:	706
+Address:	0x0f01
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP03x { 
+Name:	TIG16WP03x
+Number:	707
+Address:	0x0f02
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP04x { 
+Name:	TIG16WP04x
+Number:	708
+Address:	0x0f03
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP05x { 
+Name:	TIG16WP05x
+Number:	709
+Address:	0x0f04
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP06x { 
+Name:	TIG16WP06x
+Number:	710
+Address:	0x0f05
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP07x { 
+Name:	TIG16WP07x
+Number:	711
+Address:	0x0f06
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WP08x { 
+Name:	TIG16WP08x
+Number:	712
+Address:	0x0f07
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WN00B { 
+Name:	TIG16WN00B
+Number:	713
+Address:	0x0f08
+Digitizer:	GRF16
+EngCoeff:	0.315797 1.37715 -1.47472e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIG16WN00A { 
+Name:	TIG16WN00A
+Number:	714
+Address:	0x0f09
+Digitizer:	GRF16
+EngCoeff:	0.315797 1.37715 -1.47472e-07
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16WN01x { 
+Name:	TIS16WN01x
+Number:	715
+Address:	0x0f0a
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16WN02x { 
+Name:	TIS16WN02x
+Number:	716
+Address:	0x0f0b
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16WN03x { 
+Name:	TIS16WN03x
+Number:	717
+Address:	0x0f0c
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16WN04x { 
+Name:	TIS16WN04x
+Number:	718
+Address:	0x0f0d
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TIS16WN05x { 
+Name:	TIS16WN05x
+Number:	719
+Address:	0x0f0e
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC001N00X { 
+Name:	TPC001N00X
+Number:	720
+Address:	0x4000
+Digitizer:	GRF16
+EngCoeff:	1.38135 0.0071235 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC002N00X { 
+Name:	TPC002N00X
+Number:	721
+Address:	0x4001
+Digitizer:	GRF16
+EngCoeff:	1.32365 0.00821616 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC003N00X { 
+Name:	TPC003N00X
+Number:	722
+Address:	0x4002
+Digitizer:	GRF16
+EngCoeff:	1.44782 0.0066605 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC004N00X { 
+Name:	TPC004N00X
+Number:	723
+Address:	0x4003
+Digitizer:	GRF16
+EngCoeff:	1.40769 0.008187 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC005N00X { 
+Name:	TPC005N00X
+Number:	724
+Address:	0x4004
+Digitizer:	GRF16
+EngCoeff:	1.28951 0.0063491 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC006N00X { 
+Name:	TPC006N00X
+Number:	725
+Address:	0x4005
+Digitizer:	GRF16
+EngCoeff:	1.30397 0.00683369 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC007N00X { 
+Name:	TPC007N00X
+Number:	726
+Address:	0x4006
+Digitizer:	GRF16
+EngCoeff:	1.35787 0.00620339 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC008N00X { 
+Name:	TPC008N00X
+Number:	727
+Address:	0x4007
+Digitizer:	GRF16
+EngCoeff:	1.34138 0.00695761 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC009N00X { 
+Name:	TPC009N00X
+Number:	728
+Address:	0x4008
+Digitizer:	GRF16
+EngCoeff:	1.15501 0.0090665 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC010N00X { 
+Name:	TPC010N00X
+Number:	729
+Address:	0x4009
+Digitizer:	GRF16
+EngCoeff:	1.23835 0.00969836 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC011N00X { 
+Name:	TPC011N00X
+Number:	730
+Address:	0x400a
+Digitizer:	GRF16
+EngCoeff:	1.24634 0.00880559 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC012N00X { 
+Name:	TPC012N00X
+Number:	731
+Address:	0x400b
+Digitizer:	GRF16
+EngCoeff:	1.31443 0.00668081 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC039N00X { 
+Name:	TPC039N00X
+Number:	732
+Address:	0x400c
+Digitizer:	GRF16
+EngCoeff:	1.34418 0.00739451 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC040N00X { 
+Name:	TPC040N00X
+Number:	733
+Address:	0x400d
+Digitizer:	GRF16
+EngCoeff:	1.44416 0.00731788 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC041N00X { 
+Name:	TPC041N00X
+Number:	734
+Address:	0x400e
+Digitizer:	GRF16
+EngCoeff:	1.41126 0.00704222 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC042N00X { 
+Name:	TPC042N00X
+Number:	735
+Address:	0x400f
+Digitizer:	GRF16
+EngCoeff:	1.38423 0.00814528 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC049N00X { 
+Name:	TPC049N00X
+Number:	736
+Address:	0x4100
+Digitizer:	GRF16
+EngCoeff:	1.52334 0.00698965 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC050N00X { 
+Name:	TPC050N00X
+Number:	737
+Address:	0x4101
+Digitizer:	GRF16
+EngCoeff:	1.45659 0.00729809 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC051N00X { 
+Name:	TPC051N00X
+Number:	738
+Address:	0x4102
+Digitizer:	GRF16
+EngCoeff:	1.75195 0.00778406 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC052N00X { 
+Name:	TPC052N00X
+Number:	739
+Address:	0x4103
+Digitizer:	GRF16
+EngCoeff:	1.46982 0.00721035 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC053N00X { 
+Name:	TPC053N00X
+Number:	740
+Address:	0x4104
+Digitizer:	GRF16
+EngCoeff:	1.849 0.00714937 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC054N00X { 
+Name:	TPC054N00X
+Number:	741
+Address:	0x4105
+Digitizer:	GRF16
+EngCoeff:	1.35284 0.00652945 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC055N00X { 
+Name:	TPC055N00X
+Number:	742
+Address:	0x4106
+Digitizer:	GRF16
+EngCoeff:	1.5054 0.00761433 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC056N00X { 
+Name:	TPC056N00X
+Number:	743
+Address:	0x4107
+Digitizer:	GRF16
+EngCoeff:	1.32177 0.00692666 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC057N00X { 
+Name:	TPC057N00X
+Number:	744
+Address:	0x4108
+Digitizer:	GRF16
+EngCoeff:	1.70631 0.00740477 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC058N00X { 
+Name:	TPC058N00X
+Number:	745
+Address:	0x4109
+Digitizer:	GRF16
+EngCoeff:	1.41131 0.00731454 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC059N00X { 
+Name:	TPC059N00X
+Number:	746
+Address:	0x410a
+Digitizer:	GRF16
+EngCoeff:	1.52255 0.00615188 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC060N00X { 
+Name:	TPC060N00X
+Number:	747
+Address:	0x410b
+Digitizer:	GRF16
+EngCoeff:	1.59056 0.00700151 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC061N00X { 
+Name:	TPC061N00X
+Number:	748
+Address:	0x410c
+Digitizer:	GRF16
+EngCoeff:	1.55933 0.00624743 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC062N00X { 
+Name:	TPC062N00X
+Number:	749
+Address:	0x410d
+Digitizer:	GRF16
+EngCoeff:	1.54031 0.00589666 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC063N00X { 
+Name:	TPC063N00X
+Number:	750
+Address:	0x410e
+Digitizer:	GRF16
+EngCoeff:	1.53459 0.0071728 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC064N00X { 
+Name:	TPC064N00X
+Number:	751
+Address:	0x410f
+Digitizer:	GRF16
+EngCoeff:	1.69315 0.00677973 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC065N00X { 
+Name:	TPC065N00X
+Number:	752
+Address:	0x4200
+Digitizer:	GRF16
+EngCoeff:	1.69315 0.00677973 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC066N00X { 
+Name:	TPC066N00X
+Number:	753
+Address:	0x4201
+Digitizer:	GRF16
+EngCoeff:	1.19464 0.00920574 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC067N00X { 
+Name:	TPC067N00X
+Number:	754
+Address:	0x4202
+Digitizer:	GRF16
+EngCoeff:	1.16882 0.0089381 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC068N00X { 
+Name:	TPC068N00X
+Number:	755
+Address:	0x4203
+Digitizer:	GRF16
+EngCoeff:	1.11221 0.00918808 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC069N00X { 
+Name:	TPC069N00X
+Number:	756
+Address:	0x4204
+Digitizer:	GRF16
+EngCoeff:	1.24526 0.00870454 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC070N00X { 
+Name:	TPC070N00X
+Number:	757
+Address:	0x4205
+Digitizer:	GRF16
+EngCoeff:	1.14408 0.00918348 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC071N00X { 
+Name:	TPC071N00X
+Number:	758
+Address:	0x4206
+Digitizer:	GRF16
+EngCoeff:	1.22617 0.00878351 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC072N00X { 
+Name:	TPC072N00X
+Number:	759
+Address:	0x4207
+Digitizer:	GRF16
+EngCoeff:	1.21163 0.00872482 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC073N00X { 
+Name:	TPC073N00X
+Number:	760
+Address:	0x4208
+Digitizer:	GRF16
+EngCoeff:	1.15758 0.00828061 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC074N00X { 
+Name:	TPC074N00X
+Number:	761
+Address:	0x4209
+Digitizer:	GRF16
+EngCoeff:	1.26685 0.00890088 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC075N00X { 
+Name:	TPC075N00X
+Number:	762
+Address:	0x420a
+Digitizer:	GRF16
+EngCoeff:	1.11048 0.00893661 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC076N00X { 
+Name:	TPC076N00X
+Number:	763
+Address:	0x420b
+Digitizer:	GRF16
+EngCoeff:	1.33402 0.00822435 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC091N00X { 
+Name:	TPC091N00X
+Number:	764
+Address:	0x420c
+Digitizer:	GRF16
+EngCoeff:	1.18389 0.00904083 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC092N00X { 
+Name:	TPC092N00X
+Number:	765
+Address:	0x420d
+Digitizer:	GRF16
+EngCoeff:	1.26443 0.00873568 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC093N00X { 
+Name:	TPC093N00X
+Number:	766
+Address:	0x420e
+Digitizer:	GRF16
+EngCoeff:	1.26858 0.00894365 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC094N00X { 
+Name:	TPC094N00X
+Number:	767
+Address:	0x420f
+Digitizer:	GRF16
+EngCoeff:	1.14518 0.00840218 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC117N00X { 
+Name:	TPC117N00X
+Number:	768
+Address:	0x4300
+Digitizer:	GRF16
+EngCoeff:	1.61307 0.00674986 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC118N00X { 
+Name:	TPC118N00X
+Number:	769
+Address:	0x4301
+Digitizer:	GRF16
+EngCoeff:	1.54595 0.0077118 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC119N00X { 
+Name:	TPC119N00X
+Number:	770
+Address:	0x4302
+Digitizer:	GRF16
+EngCoeff:	1.50709 0.00760851 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC120N00X { 
+Name:	TPC120N00X
+Number:	771
+Address:	0x4303
+Digitizer:	GRF16
+EngCoeff:	1.4565 0.00844111 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC095N00X { 
+Name:	TPC095N00X
+Number:	772
+Address:	0x4304
+Digitizer:	GRF16
+EngCoeff:	1.31395 0.00873432 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC096N00X { 
+Name:	TPC096N00X
+Number:	773
+Address:	0x4305
+Digitizer:	GRF16
+EngCoeff:	1.45819 0.00764692 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC097N00X { 
+Name:	TPC097N00X
+Number:	774
+Address:	0x4306
+Digitizer:	GRF16
+EngCoeff:	1.44051 0.00743935 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC098N00X { 
+Name:	TPC098N00X
+Number:	775
+Address:	0x4307
+Digitizer:	GRF16
+EngCoeff:	1.45382 0.00788093 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC099N00X { 
+Name:	TPC099N00X
+Number:	776
+Address:	0x4308
+Digitizer:	GRF16
+EngCoeff:	1.42044 0.00712077 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC100N00X { 
+Name:	TPC100N00X
+Number:	777
+Address:	0x4309
+Digitizer:	GRF16
+EngCoeff:	1.97207 0.006928 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC101N00X { 
+Name:	TPC101N00X
+Number:	778
+Address:	0x430a
+Digitizer:	GRF16
+EngCoeff:	1.4111 0.00784487 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC102N00X { 
+Name:	TPC102N00X
+Number:	779
+Address:	0x430b
+Digitizer:	GRF16
+EngCoeff:	1.41465 0.00753325 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC103N00X { 
+Name:	TPC103N00X
+Number:	780
+Address:	0x430c
+Digitizer:	GRF16
+EngCoeff:	1.41465 0.00753325 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC104N00X { 
+Name:	TPC104N00X
+Number:	781
+Address:	0x430d
+Digitizer:	GRF16
+EngCoeff:	1.41465 0.00753325 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC105N00X { 
+Name:	TPC105N00X
+Number:	782
+Address:	0x430e
+Digitizer:	GRF16
+EngCoeff:	1.41465 0.00753325 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC106N00X { 
+Name:	TPC106N00X
+Number:	783
+Address:	0x430f
+Digitizer:	GRF16
+EngCoeff:	1.41465 0.00753325 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC013N00X { 
+Name:	TPC013N00X
+Number:	784
+Address:	0x5000
+Digitizer:	GRF16
+EngCoeff:	1.38038 0.00767034 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC014N00X { 
+Name:	TPC014N00X
+Number:	785
+Address:	0x5001
+Digitizer:	GRF16
+EngCoeff:	1.25082 0.0113035 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC015N00X { 
+Name:	TPC015N00X
+Number:	786
+Address:	0x5002
+Digitizer:	GRF16
+EngCoeff:	1.19808 0.0110066 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC016N00X { 
+Name:	TPC016N00X
+Number:	787
+Address:	0x5003
+Digitizer:	GRF16
+EngCoeff:	1.24726 0.00996702 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC017N00X { 
+Name:	TPC017N00X
+Number:	788
+Address:	0x5004
+Digitizer:	GRF16
+EngCoeff:	1.23033 0.00849961 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC018N00X { 
+Name:	TPC018N00X
+Number:	789
+Address:	0x5005
+Digitizer:	GRF16
+EngCoeff:	1.25457 0.00749147 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC019N00X { 
+Name:	TPC019N00X
+Number:	790
+Address:	0x5006
+Digitizer:	GRF16
+EngCoeff:	1.29693 0.00730549 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC020N00X { 
+Name:	TPC020N00X
+Number:	791
+Address:	0x5007
+Digitizer:	GRF16
+EngCoeff:	1.25738 0.00709169 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC021N00X { 
+Name:	TPC021N00X
+Number:	792
+Address:	0x5008
+Digitizer:	GRF16
+EngCoeff:	1.21846 0.0105035 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC022N00X { 
+Name:	TPC022N00X
+Number:	793
+Address:	0x5009
+Digitizer:	GRF16
+EngCoeff:	1.26166 0.0106968 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC043N00X { 
+Name:	TPC043N00X
+Number:	794
+Address:	0x500a
+Digitizer:	GRF16
+EngCoeff:	1.33529 0.00908542 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC044N00X { 
+Name:	TPC044N00X
+Number:	795
+Address:	0x500b
+Digitizer:	GRF16
+EngCoeff:	1.34552 0.00863688 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC045N00X { 
+Name:	TPC045N00X
+Number:	796
+Address:	0x500c
+Digitizer:	GRF16
+EngCoeff:	1.33455 0.0088968 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC046N00X { 
+Name:	TPC046N00X
+Number:	797
+Address:	0x500d
+Digitizer:	GRF16
+EngCoeff:	1.34765 0.00847554 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC047N00X { 
+Name:	TPC047N00X
+Number:	798
+Address:	0x500e
+Digitizer:	GRF16
+EngCoeff:	1.55993 0.00831318 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC048N00X { 
+Name:	TPC048N00X
+Number:	799
+Address:	0x500f
+Digitizer:	GRF16
+EngCoeff:	1.67493 0.0088177 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC023N00X { 
+Name:	TPC023N00X
+Number:	800
+Address:	0x5100
+Digitizer:	GRF16
+EngCoeff:	1.25967 0.00861225 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC024N00X { 
+Name:	TPC024N00X
+Number:	801
+Address:	0x5101
+Digitizer:	GRF16
+EngCoeff:	1.18213 0.00910561 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC025N00X { 
+Name:	TPC025N00X
+Number:	802
+Address:	0x5102
+Digitizer:	GRF16
+EngCoeff:	1.37366 0.00797254 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC026N00X { 
+Name:	TPC026N00X
+Number:	803
+Address:	0x5103
+Digitizer:	GRF16
+EngCoeff:	1.19978 0.00881939 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC027N00X { 
+Name:	TPC027N00X
+Number:	804
+Address:	0x5104
+Digitizer:	GRF16
+EngCoeff:	1.29947 0.00813649 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC028N00X { 
+Name:	TPC028N00X
+Number:	805
+Address:	0x5105
+Digitizer:	GRF16
+EngCoeff:	1.35381 0.00801241 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC029N00X { 
+Name:	TPC029N00X
+Number:	806
+Address:	0x5106
+Digitizer:	GRF16
+EngCoeff:	1.29361 0.00816753 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC030N00X { 
+Name:	TPC030N00X
+Number:	807
+Address:	0x5107
+Digitizer:	GRF16
+EngCoeff:	1.23364 0.00931279 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC031N00X { 
+Name:	TPC031N00X
+Number:	808
+Address:	0x5108
+Digitizer:	GRF16
+EngCoeff:	1.14725 0.00858768 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC032N00X { 
+Name:	TPC032N00X
+Number:	809
+Address:	0x5109
+Digitizer:	GRF16
+EngCoeff:	1.2627 0.0091048 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC033N00X { 
+Name:	TPC033N00X
+Number:	810
+Address:	0x510a
+Digitizer:	GRF16
+EngCoeff:	1.24382 0.00839567 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC034N00X { 
+Name:	TPC034N00X
+Number:	811
+Address:	0x510b
+Digitizer:	GRF16
+EngCoeff:	1.24382 0.0076764 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC035N00X { 
+Name:	TPC035N00X
+Number:	812
+Address:	0x510c
+Digitizer:	GRF16
+EngCoeff:	1.32981 0.00831095 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC036N00X { 
+Name:	TPC036N00X
+Number:	813
+Address:	0x510d
+Digitizer:	GRF16
+EngCoeff:	1.3026 0.00799686 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC037N00X { 
+Name:	TPC037N00X
+Number:	814
+Address:	0x510e
+Digitizer:	GRF16
+EngCoeff:	1.33168 0.00799937 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC038N00X { 
+Name:	TPC038N00X
+Number:	815
+Address:	0x510f
+Digitizer:	GRF16
+EngCoeff:	1.26539 0.00854614 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC121N00X { 
+Name:	TPC121N00X
+Number:	816
+Address:	0x5200
+Digitizer:	GRF16
+EngCoeff:	1.12476 0.00921348 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC122N00X { 
+Name:	TPC122N00X
+Number:	817
+Address:	0x5201
+Digitizer:	GRF16
+EngCoeff:	1.15848 0.00929096 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC123N00X { 
+Name:	TPC123N00X
+Number:	818
+Address:	0x5202
+Digitizer:	GRF16
+EngCoeff:	1.16441 0.00961467 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC124N00X { 
+Name:	TPC124N00X
+Number:	819
+Address:	0x5203
+Digitizer:	GRF16
+EngCoeff:	1.06904 0.00883978 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC125N00X { 
+Name:	TPC125N00X
+Number:	820
+Address:	0x5204
+Digitizer:	GRF16
+EngCoeff:	0.976263 0.00948782 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC126N00X { 
+Name:	TPC126N00X
+Number:	821
+Address:	0x5205
+Digitizer:	GRF16
+EngCoeff:	0.84821 0.00953568 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC127N00X { 
+Name:	TPC127N00X
+Number:	822
+Address:	0x5206
+Digitizer:	GRF16
+EngCoeff:	1.11644 0.0109156 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC128N00X { 
+Name:	TPC128N00X
+Number:	823
+Address:	0x5207
+Digitizer:	GRF16
+EngCoeff:	1.09114 0.0104535 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC109N00X { 
+Name:	TPC109N00X
+Number:	824
+Address:	0x5208
+Digitizer:	GRF16
+EngCoeff:	1.01545 0.00862631 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC110N00X { 
+Name:	TPC110N00X
+Number:	825
+Address:	0x5209
+Digitizer:	GRF16
+EngCoeff:	1.0937 0.0101249 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC111N00X { 
+Name:	TPC111N00X
+Number:	826
+Address:	0x520a
+Digitizer:	GRF16
+EngCoeff:	1.08438 0.00913609 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC112N00X { 
+Name:	TPC112N00X
+Number:	827
+Address:	0x520b
+Digitizer:	GRF16
+EngCoeff:	1.08632 0.00968436 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC113N00X { 
+Name:	TPC113N00X
+Number:	828
+Address:	0x520c
+Digitizer:	GRF16
+EngCoeff:	0.982933 0.00932871 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC114N00X { 
+Name:	TPC114N00X
+Number:	829
+Address:	0x520d
+Digitizer:	GRF16
+EngCoeff:	1.06164 0.00890915 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC115N00X { 
+Name:	TPC115N00X
+Number:	830
+Address:	0x520e
+Digitizer:	GRF16
+EngCoeff:	1.05584 0.00948241 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC116N00X { 
+Name:	TPC116N00X
+Number:	831
+Address:	0x520f
+Digitizer:	GRF16
+EngCoeff:	1.20199 0.00918058 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC107N00X { 
+Name:	TPC107N00X
+Number:	832
+Address:	0x5300
+Digitizer:	GRF16
+EngCoeff:	1.28553 0.00752458 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC108N00X { 
+Name:	TPC108N00X
+Number:	833
+Address:	0x5301
+Digitizer:	GRF16
+EngCoeff:	1.39781 0.00691951 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC077N00X { 
+Name:	TPC077N00X
+Number:	834
+Address:	0x5302
+Digitizer:	GRF16
+EngCoeff:	1.75808 0.00628693 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC078N00X { 
+Name:	TPC078N00X
+Number:	835
+Address:	0x5303
+Digitizer:	GRF16
+EngCoeff:	1.75808 0.00628693 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC079N00X { 
+Name:	TPC079N00X
+Number:	836
+Address:	0x5304
+Digitizer:	GRF16
+EngCoeff:	1.51668 0.00660835 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC080N00X { 
+Name:	TPC080N00X
+Number:	837
+Address:	0x5305
+Digitizer:	GRF16
+EngCoeff:	1.57768 0.00655768 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC081N00X { 
+Name:	TPC081N00X
+Number:	838
+Address:	0x5306
+Digitizer:	GRF16
+EngCoeff:	1.50995 0.00684379 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC082N00X { 
+Name:	TPC082N00X
+Number:	839
+Address:	0x5307
+Digitizer:	GRF16
+EngCoeff:	1.50908 0.00749032 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC083N00X { 
+Name:	TPC083N00X
+Number:	840
+Address:	0x5308
+Digitizer:	GRF16
+EngCoeff:	1.4495 0.00667757 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC084N00X { 
+Name:	TPC084N00X
+Number:	841
+Address:	0x5309
+Digitizer:	GRF16
+EngCoeff:	1.52407 0.00615709 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC085N00X { 
+Name:	TPC085N00X
+Number:	842
+Address:	0x530a
+Digitizer:	GRF16
+EngCoeff:	1.3617 0.00668548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC086N00X { 
+Name:	TPC086N00X
+Number:	843
+Address:	0x530b
+Digitizer:	GRF16
+EngCoeff:	1.82463 0.00612548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC087N00X { 
+Name:	TPC087N00X
+Number:	844
+Address:	0x530c
+Digitizer:	GRF16
+EngCoeff:	1.82463 0.00612548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC088N00X { 
+Name:	TPC088N00X
+Number:	845
+Address:	0x530d
+Digitizer:	GRF16
+EngCoeff:	1.82463 0.00612548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC089N00X { 
+Name:	TPC089N00X
+Number:	846
+Address:	0x530e
+Digitizer:	GRF16
+EngCoeff:	1.82463 0.00612548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+TPC090N00X { 
+Name:	TPC090N00X
+Number:	847
+Address:	0x530f
+Digitizer:	GRF16
+EngCoeff:	1.82463 0.00612548 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+RFL00XS00x { 
+Name:	RFL00XS00x
+Number:	848
+Address:	0x100f
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMT00XP00x { 
+Name:	EMT00XP00x
+Number:	849
+Address:	0x140f
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+ETO00XP00x { 
+Name:	ETO00XP00x
+Number:	850
+Address:	0x150f
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+ETO01XP00x { 
+Name:	ETO01XP00x
+Number:	851
+Address:	0x160f
+Digitizer:	GRF16
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN01X { 
+Name:	EMP00XN01X
+Number:	858
+Address:	0x00800000
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN02X { 
+Name:	EMP00XN02X
+Number:	859
+Address:	0x00800001
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN03X { 
+Name:	EMP00XN03X
+Number:	860
+Address:	0x00800002
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMS00XN00X { 
+Name:	EMS00XN00X
+Number:	861
+Address:	0x00800003
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMI00XN01X { 
+Name:	EMI00XN01X
+Number:	862
+Address:	0x00800010
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMI00XN02X { 
+Name:	EMI00XN02X
+Number:	863
+Address:	0x00800011
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMI00XN03X { 
+Name:	EMI00XN03X
+Number:	864
+Address:	0x00800012
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMI00XN04X { 
+Name:	EMI00XN04X
+Number:	865
+Address:	0x00800013
+Digitizer:	MADC
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN01T { 
+Name:	EMP00XN01T
+Number:	866
+Address:	0x00900000
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN02T { 
+Name:	EMP00XN02T
+Number:	867
+Address:	0x00900004
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XN03T { 
+Name:	EMP00XN03T
+Number:	868
+Address:	0x00900008
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XP01R { 
+Name:	EMP00XP01R
+Number:	869
+Address:	0x0090000c
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XP01L { 
+Name:	EMP00XP01L
+Number:	870
+Address:	0x00900010
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XP02U { 
+Name:	EMP00XP02U
+Number:	871
+Address:	0x00900014
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMP00XP02D { 
+Name:	EMP00XP02D
+Number:	872
+Address:	0x00900018
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
+EMT00XP01X { 
+Name:	EMT00XP01X
+Number:	873
+Address:	0x0090001c
+Digitizer:	V1190
+EngCoeff:	0 1 0
+Integration:	0
+ENGChi2:	0
+FileInt:	0
+}
+
+//====================================//
