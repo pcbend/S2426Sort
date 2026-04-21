@@ -185,7 +185,12 @@ void MakeEmmaADC(uint32_t* pdata,int size) {
           frag.get()->SetPileup(0);          
           frag.get()->SetDetType(12);
 
+          //printf("EMMA ADC\n");
+          int c     = frag.get()->Address()&0xff;
+          float chg = frag.get()->Charge(); 
           //frag.get()->Print();
+          Histogramer::Get()->Fill("eADC",4000,0,64000,chg,
+                                           1000,0,1000,c);
 
           EventBuilder::Get()->push(std::move(frag));
         }
@@ -285,9 +290,10 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
 
            int c     = frag.get()->Address()&0xff;
            float chg = frag.get()->Charge(); 
-           Histogramer::Get()->Fill("emmaChannels",4000,0,64000,chg,
-                                                    1000,0,1000,c);
+           Histogramer::Get()->Fill("eTDC",4000,0,64000,chg,
+                                           1000,0,1000,c);
 
+          //printf("EMMA TDC\n");
           //frag.get()->Print();
           EventBuilder::Get()->push(std::move(frag));
         }
