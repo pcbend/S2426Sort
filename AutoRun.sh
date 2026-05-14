@@ -11,7 +11,7 @@ set -euo pipefail
 
 # List of run numbers to process
 #RUNS=(62089 62090 62092 62094 62095 62096 62097 62099 62102 62105 62274 62275 62276 62277)
-RUNS=(62131 62183)
+RUNS=(62094 62095 62097 62099)
 
 # Directory containing input .mid files
 DATA_DIR="/data1/yzhu/Projects/S2426/raw_data"
@@ -23,7 +23,7 @@ SORTER="./bin/s2426Sort"
 OUT_DIR="./histOutput"
 
 # Maximum number of runs processed in parallel
-MAX_PARALLEL=2
+MAX_PARALLEL=1
 
 # Log file to record failed subruns
 RUN_LOG="${OUT_DIR}/run.log"

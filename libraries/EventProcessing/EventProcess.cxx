@@ -33,6 +33,7 @@ void EventProcess::loop() {
   long lasttime    = -1;
   long currenttime =  0;
   while(1) {
+    //printf("\n\n=======================================================\n");
     if(fStop) break;
     
     //printf("\n\n\n\n EVENT PROCESS LOOP  ?!\n\n\n");
@@ -100,12 +101,17 @@ void EventProcess::loop() {
     for(auto it = emmaadc.begin(); it!=emmaadc.end(); ++it){
       auto& current = *it;
       int c     = current->Address()&0xff;
-      float chg = current->Charge(); 
+      float chg = current->Charge();
+      long timestamp = current->Timestamp(); 
       Histogramer::Get()->Fill("Event/EMMA","eADC",4000,0,64000,chg, 1000,0,1000,c);
       if(c>15 && c<20) {
         ics[c-16].push_back(chg);
+        //printf("ic%i: %lu\n", c-16,timestamp);
       }
-      if(c == 3) si.push_back(chg);
+      if(c == 3) {
+        si.push_back(chg);
+        //printf("si: %lu\n",timestamp);
+      }
     }
     double sum = 0;
 		std::map<int, double> ic_sum;
@@ -145,11 +151,14 @@ void EventProcess::loop() {
       auto& current = *it;
       int c     = current->Address()&0xff;
       float chg = current->Charge(); 
+      long timestamp = current->Timestamp(); 
       Histogramer::Get()->Fill("Event/EMMA","eTDC",4000,0,64000,chg, 1000,0,1000,c);
 			if(c==3) right  = chg;
 			if(c==4) left   = chg;
 			if(c==5) top    = chg;
 			if(c==6) bottom = chg;
+      //if(c>=0 && c<=2) printf("pgac  anode%i: %lu\n",c,timestamp);
+      //if(c>=3 && c<=6) printf("pgac cathod%i: %lu\n",c,timestamp);
     }
 		if(left>0 && right>0 && top>0 && bottom>0){
 			double Xdiff = (left+fLdelay) - (right+fRdelay);
@@ -181,8 +190,7 @@ void EventProcess::loop() {
                    (color == 'W') ? 3 : -1;
       Histogramer::Fill("Event","summary_energy",70,0,70,det*4 +xtal,8000,0,4000,current->Energy());
       Histogramer::Fill("Event","summary_charge",70,0,70,det*4 +xtal,16000,0,16000,current->Charge());
-      //Histogramer::Fill(Form("Event/x%02i%c",det,color),"time_charge",7200,0,72000,current->Time()/1e8,16000,0,16000,current->Charge());
-			//if(det*4 +xtal == 20) Histogramer::Fill("PGAC","tigE_pgacx",40,-30,10,pgac.X(), 4000,0,16000,current->Charge());
+      Histogramer::Fill(Form("Event/x%02i%c",det,color),"time_charge",7200,0,72000,current->Time()/1e8,16000,0,16000,current->Charge());
       auto next = std::next(it);
       if(next == cores.end())
         break;  // no next element

@@ -28,9 +28,10 @@ auto lastPrint = std::chrono::steady_clock::now();
 auto timeEllapsed = std::chrono::duration_cast<std::chrono::seconds>(lastPrint-start);
 const std::chrono::seconds interval(1); // 1 second interval
 
-
 int main(int argc, char **argv) {
-  TMidasFile infile(argv[1]);
+  
+
+TMidasFile infile(argv[1]);
   TMidasEvent event;
 
   Histogramer *gHist = Histogramer::Get();
@@ -43,7 +44,7 @@ int main(int argc, char **argv) {
   printf(" \trun:    %i\n",run);
   printf(" \tsubrun: %i\n",subrun);
 
-  Channel::Read("cal/CalibrationFile_Clean.cal"); 
+  Channel::Read("cal/CalibrationFile_May1326.cal"); 
 
   //start event builder;
   EventBuilder::Get();
@@ -226,6 +227,8 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
       case 0x0:  //tdc measurement
         addresses.push_back((datum >> 21) & 0x1f); // CHANNEL 
         charges.push_back(datum & 0x1fffff); // TDC MEASUREMENT
+        //addresses.push_back(0x900000 + ((datum >> 19) & 0xff ) );  
+        //charges.push_back(datum & 0x7ffff);
         break;
       case 0x3:  //tdc trailer
         break;
