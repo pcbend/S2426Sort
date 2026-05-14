@@ -1,7 +1,7 @@
 
 
 #include <filesystem>
-
+#include <sstream>
 
 #include <Histogramer.h>
 #include <globals.h>
@@ -70,7 +70,7 @@ Histogramer::~Histogramer() {
     std::string outDir = "histOutput";
     if(!std::filesystem::exists(outDir))
       std::filesystem::create_directory(outDir);
-    TFile *outFile = new TFile(Form("%s/hist%i-%02i.root",outDir.c_str(),fRun,fSubrun),"recreate");
+    TFile *outFile = new TFile(Form("%s/hist%i_%03i.root",outDir.c_str(),fRun,fSubrun),"recreate");
     std::map<std::string,TList*>::iterator it;
     int counter = 0;
 
@@ -88,15 +88,31 @@ Histogramer::~Histogramer() {
       } else {
         //printf("\t %i  i am here: %s\n",counter++,dname.c_str());
         TDirectory *current = gDirectory;
+      	
+				TDirectory *dir = outFile;
 
-        outFile->mkdir(dname.c_str())->cd();
-        //outfile->cd();
-        l->Sort();
-        printf("list entries = %i\n",l->GetEntries());
-        l->Write();
-        if(current) 
-          current->cd();
-      }
+				std::stringstream ss(dname);
+				std::string part;
+
+				while(std::getline(ss, part, '/')) {
+ 					if(part.empty())
+ 					  continue;
+
+ 					TDirectory *next = dir->GetDirectory(part.c_str());
+
+ 					if(!next)
+ 					  next = dir->mkdir(part.c_str());
+
+ 					dir = next;
+				}
+
+				dir->cd();
+				l->Sort();
+				printf("directory = %s, list entries = %i\n", dname.c_str(), l->GetEntries());
+				l->Write();
+
+				if(current) current->cd();
+			}
         /*
         for(int i=0;i<l->GetEntries();i++) {
           //printf("\t\t%i:  %si\t%p\n",i,l->At(i)->GetName(),((TH1*)l->At(i))->GetDirectory());

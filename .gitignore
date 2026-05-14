@@ -5,6 +5,8 @@ bin/
 
 data/
 
+macros/
+
 *.o
 *.so
 *.pcm
@@ -14,6 +16,7 @@ a.out
 *.log
 *.dat
 *.c
+*.bak
 
 .DS_Store
 

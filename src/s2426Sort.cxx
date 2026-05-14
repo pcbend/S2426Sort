@@ -28,9 +28,10 @@ auto lastPrint = std::chrono::steady_clock::now();
 auto timeEllapsed = std::chrono::duration_cast<std::chrono::seconds>(lastPrint-start);
 const std::chrono::seconds interval(1); // 1 second interval
 
-
 int main(int argc, char **argv) {
-  TMidasFile infile(argv[1]);
+  
+
+TMidasFile infile(argv[1]);
   TMidasEvent event;
 
   Histogramer *gHist = Histogramer::Get();
@@ -43,7 +44,7 @@ int main(int argc, char **argv) {
   printf(" \trun:    %i\n",run);
   printf(" \tsubrun: %i\n",subrun);
 
-  Channel::Read("cal/CalibrationFile_Nov182025.cal"); 
+  Channel::Read("cal/CalibrationFile_May1326.cal"); 
 
   //start event builder;
   EventBuilder::Get();
@@ -94,31 +95,12 @@ int main(int argc, char **argv) {
 
   }
   doStatus(infile,true);
-  //printf("Event info: %zu types\n",typeFound.size());
-  //for(auto it : typeFound) { 
-  //  printf("\t0x%08x: \t%i\n",it.first,it.second);
-  //}
-  //printf("Bank info:\n");
-  //for(auto it : banksFound) { 
-  //  printf("\t%s: \t%i\n",it.first.c_str(),it.second);
-  //}
-
-  //std::ofstream ofile("banks.txt");
-  //for(auto it : banksFound) { 
-  //  ofile << "Bank info:" << std::endl;
-  //  ofile << "bank:  " << it.first.c_str() << std::endl;
-  //  ofile << "count: " << it.second        << std::endl;
-  //}
-  //ofile.close();
   gHist->Close();
   return 0;  
 }
 
 
-
-
-
-
+// ======================================================================================= // 
 void doStatus(TMidasFile &infile,bool forcePrint) {
   
   if((std::chrono::steady_clock::now()-lastPrint) > interval) forcePrint=true;
@@ -151,6 +133,7 @@ void doStatus(TMidasFile &infile,bool forcePrint) {
 }
 
 
+// ======================================================================================= // 
 void MakeEmmaADC(uint32_t* pdata,int size) {
   //printf("MADC, size = %i:\n",size);
   long timestamp=0;
@@ -167,7 +150,7 @@ void MakeEmmaADC(uint32_t* pdata,int size) {
         timestamp=datum&0x3fffffff;
         break;   
       case 0x40000000:
-        break;   
+        break;  // header event 0x4~0x7 
       case 0x00000000:
         if(datum & 0x00800000) {//
           timestamp += ((long(datum&0x0000ffff))<<30);
@@ -183,7 +166,7 @@ void MakeEmmaADC(uint32_t* pdata,int size) {
           frag.get()->SetCfd(0);             
           frag.get()->SetFilterPattern(0);   
           frag.get()->SetPileup(0);          
-          frag.get()->SetDetType(12);
+          frag.get()->SetDetType(13);
 
           //printf("EMMA ADC\n");
           int c     = frag.get()->Address()&0xff;
@@ -209,6 +192,7 @@ static uint32_t wraparoundcounter = 0; //0xffffffff; // Needed for bad data at s
 static uint32_t lasttimestamp = 0;     // "last" time stamp for simple wraparound algorightm 
 static uint32_t countsbetweenwraps; // number of counts between wraparounds
 
+// ======================================================================================= // 
 void MakeEmmaTDC(uint32_t* pdata ,int size) {
   //printf("MTDC, size = %i:\n",size);
   //long timestamp=0;
@@ -238,15 +222,13 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
       case 0x8:  //event header
         break;
       case 0x1:  //tdc header
-        tmpAddress = (datum>>16)&0x300; 
+        tmpAddress = (datum>>12)&0xfff; // event ID 
         break;
       case 0x0:  //tdc measurement
-         { 
-           int c = ((datum >> 19) & 0xff ); 
-           //printf("tdc: 0x%08x\t%i\n",c,c);
-         }  
-        addresses.push_back(0x900000 + ((datum >> 19) & 0xff ) );  
-        charges.push_back(datum & 0x7ffff);
+        addresses.push_back((datum >> 21) & 0x1f); // CHANNEL 
+        charges.push_back(datum & 0x1fffff); // TDC MEASUREMENT
+        //addresses.push_back(0x900000 + ((datum >> 19) & 0xff ) );  
+        //charges.push_back(datum & 0x7ffff);
         break;
       case 0x3:  //tdc trailer
         break;
@@ -255,7 +237,7 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
       case 0x11: //extended trigger time
         tmpTimestamp = (datum & 0x7FFFFFFU) << 5;
         break;
-      case 0x10: //trailer
+      case 0x10: //trigger time trailer
         tmpTimestamp |= ((datum) & 0x1fU);
         if(tmpTimestamp < lasttimestamp) {
           wraparoundcounter++;
@@ -264,7 +246,7 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
         lasttimestamp = tmpTimestamp;
         ts = static_cast<Long64_t>(lasttimestamp) +
           static_cast<Long64_t>(0x100000000ULL) * static_cast<Long64_t>(wraparoundcounter);
-        ts = (ts * 5) >> 1;
+        ts = (ts * 5) >> 1; // before ts in 25ns, after ts in 10 ns;
 
         for (size_t i = 0; i < addresses.size(); ++i) {
           // optional duplicate check, mirroring GH:
@@ -285,7 +267,7 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
           frag.get()->SetCfd(0);             
           frag.get()->SetFilterPattern(0);
           frag.get()->SetPileup(0);
-          frag.get()->SetDetType(13);
+          frag.get()->SetDetType(14);
 
 
            int c     = frag.get()->Address()&0xff;
@@ -308,6 +290,7 @@ void MakeEmmaTDC(uint32_t* pdata ,int size) {
   }
 }
 
+// ======================================================================================= // 
 void MakeTigressFragments(uint32_t *pdata,int size) { 
   int words=0;
   int counter=0;
@@ -324,25 +307,25 @@ void MakeTigressFragments(uint32_t *pdata,int size) {
     if(pStart!=0 && pEnd!=0) {
       counter++;
       int nwords = int(pEnd-pStart);
-      //processGRF4(pStart,nwords);
       std::unique_ptr<Fragment> frag = std::make_unique<Fragment>();
-      //printf("%p \t %i\n",pStart,nwords);
       int i=0;
-      //while(i<nwords) {
-      //  printf("0x%08x\t",*(pStart+i));
-      //  i++;
-      //  if(i!=0)
-      //    if((i%8)==0)
-      //      printf("\n");
-      //}
-      //printf("\n");
       if(frag.get()->Unpack(pStart,nwords)) {
+//=========================================================================================================//        
+        //if(frag.get()->DetType() == 0) {
+        //  std::string name = frag.get()->Name();
+        //  int  det   = std::stoi(frag->Name().substr(3,2));
+        //  char color = frag->Name().at(5);  
+        //  int  xtal  = (color == 'B') ? 0 : 
+        //               (color == 'G') ? 1 : 
+        //               (color == 'R') ? 2 : 
+        //               (color == 'W') ? 3 : -1;
+        //  Histogramer::Fill("Frags","summary",70,0,70,det*4 +xtal,8000,0,4000,frag->Energy());
+        //  Histogramer::Fill(Form("Frags/x%02i%c",det,color),"gain",3600,0,3600,frag->Time()/1e8,4000,0,4000,frag->Energy());
+        //}
         good++;
-        //for(number oif pileupes)
-        //  Histogramer::Fill("something",70,0,70,frag.get()->GetNumber(i),8000,0,64000,frag.get()->GetCharge(i)
-//        frag.get()->Print();
         EventBuilder::Get()->push(std::move(frag));
-      } else {
+//=========================================================================================================//
+      }else{
         bad++;
       }
       pStart = 0;
